@@ -1,8 +1,8 @@
 ---
-title: Getting Started / Quick Start Guide
+title: Getting Started
 layout: default
 ---
 
-# Getting Started / Quick Start Guide
+# Getting Started
 
 (Content will be added here later)

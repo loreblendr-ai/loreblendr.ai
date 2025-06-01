@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions (FAQ)
+title: FAQ
 layout: default
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Contact Support / Get Help
+title: Support
 layout: default
 ---
 
-# Contact Support / Get Help
+# Support
 
 (Content will be added here later)
