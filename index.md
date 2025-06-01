@@ -55,4 +55,4 @@ The developer, Trent Robbins, indicated that the app's privacy practices may inc
 ## Support
 
 - [App Support](https://robbintt.github.io/outlines/docs/byollm_static/byollm-privacy-policy-html.html)
-- [Privacy Policy](https://robbintt.github.io/outlines/docs/byollm_static/byollm-privacy-policy-html.html)
+- [Privacy Policy](privacy-policy-temp.html)
