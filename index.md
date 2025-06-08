@@ -10,6 +10,11 @@ nav_exclude: true
 
 Available on the [App Store](https://apps.apple.com/us/app/llm-power-tools/id6745411393).
 
+
+## Testflight User?
+
+Head over to [Getting Started](getting-started.html)
+
 ## Description
 
 Chat with 300+ AI models in one place! Seamlessly manage conversation history with undo and duplicate features. Your personal AI assistant powered by OpenRouter - no server needed.
