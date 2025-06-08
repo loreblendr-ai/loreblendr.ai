@@ -19,7 +19,7 @@ Head over to [Getting Started](getting-started.html) to play the test scenario!
 
 ## Description
 
-Chat with 300+ AI models in one place! Seamlessly manage conversation history with undo and duplicate features. Your personal AI assistant powered by OpenRouter - no server needed.
+Chat with 300+ AI models in one place! Seamlessly manage conversation history with undo and duplicate features. Your personal AI assistant powered by OpenRouter.
 
 ## Features
 
@@ -27,6 +27,11 @@ Chat with 300+ AI models in one place! Seamlessly manage conversation history wi
 - Manage conversation history with undo and duplicate.
 - Powered by OpenRouter.
 - No server needed for core functionality.
+
+## Planned Features
+
+- MCP (wip)
+- Character Cards (testflight external testing)
 
 ## What's New
 
@@ -43,10 +48,6 @@ Chat with 300+ AI models in one place! Seamlessly manage conversation history wi
 - **iPad**: Requires iPadOS 18.4 or later.
 - **Mac**: Requires macOS 15.4 or later and a Mac with Apple M1 chip or later.
 - **Apple Vision**: Requires visionOS 2.4 or later.
-
-## App Privacy
-
-The developer, Trent Robbins, indicated that the app's privacy practices may include handling of data as described below. For more information, see the [developer's privacy policy](https://robbintt.github.io/outlines/docs/byollm_static/byollm-privacy-policy-html.html).
 
 **Data Not Collected**: The developer does not collect any data from this app.
 
