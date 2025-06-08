@@ -49,15 +49,20 @@ See the screenshot below for reference (items to interact with are circled):
 ---
 ## Import Character Card
 
-First, you need to save the character card to your iPhone.
+You need to save the character card to your iPhone's **Files app**.
 
-1.  Long-press the image below and select "Save to Photos".
+**Important:** Saving to your Photos app may not work correctly on iOS, as it can remove the character data from the image.
+
+1.  Long-press the image below and select "Save to Files".
+2.  Choose a location and tap "Save".
 
 ![The Caffeinated Gauntlet](assets/The_Caffeinated_Gauntlet.png)
 
 *Character card from [this Discord post](https://discord.com/channels/1100685673633153084/1378119188832321687).*
 
-*Note: Character cards are PNG files with embedded character data. The app can import them from your Photos or Files.*
+After saving the card, go to the app's **Settings** tab and use the import feature to select the card from your Files app.
+
+For more details, see [Importing Character Cards](importing-character-cards.md).
 
 ---
 ## Start the Scenario: The Caffeinated Gauntlet
