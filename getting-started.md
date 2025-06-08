@@ -5,8 +5,6 @@ layout: default
 
 # Getting Started
 
-(Content will be added here later)
-
 ---
 ## OpenRouter Setup
 
