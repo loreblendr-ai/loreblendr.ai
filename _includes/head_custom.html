@@ -1,0 +1,25 @@
+<style>
+.butterbar {
+  background-color: #fffbe6;
+  color: #5c3c00;
+  padding: 12px 15px;
+  text-align: center;
+  border-bottom: 1px solid #ffecb3;
+  font-size: 15px;
+}
+.butterbar a {
+  font-weight: 600;
+  text-decoration: underline;
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // Exclude butterbar from the 'getting-started' page.
+  if (window.location.pathname.indexOf('getting-started') === -1) {
+    var butterbar = document.createElement('div');
+    butterbar.className = 'butterbar';
+    butterbar.innerHTML = 'TestFlight user? Head over to <a href="{{ "/getting-started" | relative_url }}">Getting Started</a>.';
+    document.body.insertBefore(butterbar, document.body.firstChild);
+  }
+});
+</script>
