@@ -11,19 +11,13 @@ layout: default
 
 ## TestFlight Users
 
-Head over to [Getting Started](getting-started.html) to download the app and play the test scenario!
+Head over to [Getting Started](getting-started.html) to play the test scenario!
 
 ---
 
 ## Privacy and Security
 
-(Content will be added here later)
-
----
-
-## Support
-
-(Content will be added here later)
+All your chat data is on your icloud container, and cannot be accessed.
 
 ---
 
