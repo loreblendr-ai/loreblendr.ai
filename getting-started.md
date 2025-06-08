@@ -55,6 +55,8 @@ First, you need to save the character card to your iPhone.
 
 ![The Caffeinated Gauntlet](assets/The_Caffeinated_Gauntlet.png)
 
+*Character card from [this Discord post](https://discord.com/channels/1100685673633153084/1378119188832321687).*
+
 *Note: Character cards are PNG files with embedded character data. The app can import them from your Photos or Files.*
 
 ---
