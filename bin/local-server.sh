@@ -6,7 +6,9 @@
 #
 # Usage:
 #   ./bin/local-server.sh
-set -euo pipefail
+set -euxo pipefail
+
+rm -rf _site .jekyll-cache
 
 echo "Setting up Bundler to install gems into ./vendor/bundle"
 bundle config set --local path 'vendor/bundle'
