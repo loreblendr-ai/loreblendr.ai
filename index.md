@@ -11,7 +11,7 @@ nav_exclude: true
 Available on the [App Store](https://apps.apple.com/us/app/llm-power-tools/id6745411393).
 
 
-## Testflight User?
+## Testflight Users
 
 Head over to [Getting Started](getting-started.html)
 

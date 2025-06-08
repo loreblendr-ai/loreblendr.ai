@@ -9,6 +9,12 @@ layout: default
 
 ---
 
+## TestFlight Users
+
+Head over to [Getting Started](getting-started.html) to download the app and play the test scenario!
+
+---
+
 ## Privacy and Security
 
 (Content will be added here later)
