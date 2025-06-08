@@ -40,11 +40,9 @@ document.addEventListener("DOMContentLoaded", function() {
   /* Always expand the "Getting Started" nav section */
   var gettingStartedLink = document.querySelector('#site-nav .nav-list-link[href="' + gettingStartedUrl + '"]');
   if (gettingStartedLink) {
-    var expanderButton = gettingStartedLink.nextElementSibling;
-    if (expanderButton && expanderButton.classList.contains('nav-list-expander')) {
-      if (expanderButton.getAttribute('aria-pressed') !== 'true') {
-        expanderButton.click();
-      }
+    var expanderButton = gettingStartedLink.parentNode.querySelector('.nav-list-expander');
+    if (expanderButton && expanderButton.getAttribute('aria-pressed') !== 'true') {
+      expanderButton.click();
     }
   }
 });
