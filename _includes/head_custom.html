@@ -21,11 +21,13 @@
 </style>
 <script>
 document.addEventListener("DOMContentLoaded", function() {
+  const gettingStartedUrl = '{{ "/getting-started.html" | relative_url }}';
+
   // Exclude butterbar from the 'getting-started' page.
   if (window.location.pathname.indexOf('getting-started') === -1) {
     var butterbar = document.createElement('div');
     butterbar.className = 'butterbar';
-    butterbar.innerHTML = 'TestFlight user? Head over to <a href="{{ "/getting-started" | relative_url }}">Getting Started</a>.';
+    butterbar.innerHTML = 'TestFlight user? Head over to <a href="' + gettingStartedUrl + '">Getting Started</a>.';
     document.body.insertBefore(butterbar, document.body.firstChild);
   }
 
