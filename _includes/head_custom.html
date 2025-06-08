@@ -40,9 +40,14 @@ document.addEventListener("DOMContentLoaded", function() {
   /* Always expand the "Getting Started" nav section */
   var gettingStartedLink = document.querySelector('#site-nav .nav-list-link[href="' + gettingStartedUrl + '"]');
   if (gettingStartedLink) {
-    var expanderButton = gettingStartedLink.parentNode.querySelector('.nav-list-expander');
-    if (expanderButton && expanderButton.getAttribute('aria-pressed') !== 'true') {
-      expanderButton.click();
+    var parentLi = gettingStartedLink.parentNode;
+    // Only expand if we are not already in the "Getting Started" section.
+    // The theme adds the 'active' class to the parent li of the current page's nav link.
+    if (parentLi && !parentLi.classList.contains('active')) {
+      var expanderButton = parentLi.querySelector('.nav-list-expander');
+      if (expanderButton && expanderButton.getAttribute('aria-pressed') !== 'true') {
+        expanderButton.click();
+      }
     }
   }
 });
