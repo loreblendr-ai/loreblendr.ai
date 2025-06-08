@@ -1,34 +1,33 @@
 ---
 title: OpenRouter Setup
 layout: default
-parent: Getting Started
-nav_order: 1
+nav_order: 4
 ---
 
-# OpenRouter Setup
+# OpenRouter Account & API Key Setup
 
-It is recommended to do this on your iphone to easily copy the key.
+This guide explains how to set up an OpenRouter account and generate an API key for use with LLM Power Tools.
 
-## 1. Create Account at: [https://accounts.openrouter.ai/sign-up](https://accounts.openrouter.ai/sign-up)
-*   Recommended: Click the Google "G" button to sign up with Google.
+## 1. Create an OpenRouter Account
 
-![Create OpenRouter Account](assets/openrouter-create-account.jpeg)
+First, you'll need an OpenRouter account.
 
-## 2. Create API Key
+1.  Go to the [OpenRouter sign-up page](https://accounts.openrouter.ai/sign-up).
+2.  You can sign up using your email address or a Google account.
 
-Do not add payment info at this stage.
+## 2. Create an API Key
 
-1.  Navigate to your account settings by tapping the icon in the top-right, then select "Keys" from the menu.
-    ![OpenRouter Menu](assets/openrouter-menu.jpeg)
+Once your account is created, you can generate an API key.
 
-2.  On the Keys page, click "Create Key".
-    ![OpenRouter Create Key Button](assets/openrouter-create-key-button.jpeg)
+1.  Navigate to the [API Keys page](https://openrouter.ai/settings/keys) in your OpenRouter settings.
+2.  Click the **Create Key** button.
+3.  Give your key a descriptive name (e.g., "LLM Power Tools Key").
+4.  You can set an optional credit limit to control costs. For free models, a limit of `$0` is fine.
+5.  Click **Create**.
+6.  **Important:** Copy your new API key immediately and store it in a safe place. You will not be able to see it again.
 
-3.  Fill out the form:
-    *   **Name:** `Testflight Key`
-    *   **Credit Limit:** `0`
-    *   **Important:** Copy and save your new API key securely. It won't be shown again.
-    ![OpenRouter Create Key Form](assets/openrouter-create-key-form.jpeg)
+## 3. Using the Key in LLM Power Tools
 
-4.  Click the "Create" button to finish.
-5.  Copy the key and paste it into the app.
+1.  Open LLM Power Tools and go to the **Settings** tab.
+2.  Paste your API key into the "OpenRouter API Key" field.
+3.  The key is stored securely in your device's private keychain.
