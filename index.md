@@ -4,11 +4,11 @@ layout: home
 nav_exclude: true
 ---
 
-# byollm
+# LLM Power Tools
 
 **AI chat with 300+ models**
 
-Available on the [App Store](https://apps.apple.com/us/app/byollm/id6745411393).
+Available on the [App Store](https://apps.apple.com/us/app/llm-power-tools/id6745411393).
 
 ## Description
 
@@ -42,15 +42,6 @@ Chat with 300+ AI models in one place! Seamlessly manage conversation history wi
 The developer, Trent Robbins, indicated that the app's privacy practices may include handling of data as described below. For more information, see the [developer's privacy policy](https://robbintt.github.io/outlines/docs/byollm_static/byollm-privacy-policy-html.html).
 
 **Data Not Collected**: The developer does not collect any data from this app.
-
-## Information
-
-- **Author**: Trent Zock-Robbins
-- **Category**: [Productivity](https://itunes.apple.com/us/genre/id6007)
-- **Languages**: English
-- **Age Rating**: 4+
-- **Copyright**: © 2025 Trent Zock-Robbins
-- **Price**: Free (Offers In-App Purchases)
 
 ## Support
 
