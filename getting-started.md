@@ -1,11 +1,17 @@
 ---
 title: Getting Started
 layout: default
+has_children: true
 ---
 
 # Getting Started
 
 Open this page on your iphone so you can follow the links directly to the app store.
+
+---
+## Table of Contents
+* TOC
+{:toc}
 
 ---
 ## OpenRouter Setup
