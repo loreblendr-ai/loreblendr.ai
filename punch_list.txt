@@ -1,5 +1,4 @@
 - fix the settings image asset, the new screenshot is on my phoen still, sunday 1400-1415 pm
 - make all the images have some max width maybe like 500px? full width 980px is annoying on desktop.
-- look for any reference of byollm
 - put the OR guide and char card setup in "Detailed Setup" section above FAQ.
 - add the redirect from https://gungheap.github.io/llm-power-tools-docs/openrouter-guide.html to the openrouter guide
