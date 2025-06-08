@@ -69,16 +69,29 @@ See the screenshot below for reference (items to interact with are circled):
 
 You need to save the character card to your iPhone's **Files app**.
 
-**Important:** Saving to your Photos app may not work correctly on iOS, as it can remove the character data from the image.
+This step takes longer to do the first time because of iOS menu structure, I have an improvement, but it's taking some time.
 
-1.  Long-press the image below and select "Save to Files".
-2.  Choose a location and tap "Save".
+**Important: Do not** use "Save to Photos" or "Copy Image" because it will remove the character data from the image.
 
 ![The Caffeinated Gauntlet](assets/The_Caffeinated_Gauntlet.png)
+*Character card credited to [this Discord post](https://discord.com/channels/1100685673633153084/1378119188832321687).*
 
-*Character card from [this Discord post](https://discord.com/channels/1100685673633153084/1378119188832321687).*
+1.  Long-press the image and choose "Open Image". 
+    - Long press the image again select "Share" then "Save to Files".
+    - If in Chrome, you may select "Download", the image will be in "On My Iphone -> Chrome" in the files app.
+    - If in Safari, you can directly open the image, then choose "Save to Files", you will be prompted to select a location, remember it for the next steps.
+2.  Choose a location and tap "Save".
+3. After saving the card, go to the app's **Settings** tab and use the import feature to select the card from your Files app.
+    - The photo file may be in "On My iPhone" or "iCloud Drive", you can press back in finder then explore each directory
+4. Import the character card to the app
+    - Go back to the app, select "Settings", "Manage Character Cards"
+    - Choose "Import", "allow paste"
+    - Select "Import from PNG file"
+    - Navigate to the file from the previous step
+    - Clicking the file will import it, with the message "Import Successful"
+    - The character card will now be in the list as "The Caffeinated Gauntlet"
 
-After saving the card, go to the app's **Settings** tab and use the import feature to select the card from your Files app.
+*If it helps, directly visit the image via [https://gungheap.github.io/llm-power-tools-docs/assets/The_Caffeinated_Gauntlet.png](https://gungheap.github.io/llm-power-tools-docs/assets/The_Caffeinated_Gauntlet.png)*
 
 For more details, see [Importing Character Cards](importing-character-cards.md).
 
