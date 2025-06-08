@@ -87,8 +87,10 @@ This step takes longer to do the first time because of iOS menu structure, I hav
     - Go back to the app, select "Settings", "Manage Character Cards"
     - Choose "Import", "allow paste"
     - Select "Import from PNG file"
+    ![Import from PNG](assets/app-import-cc-from-png.png)
     - Navigate to the file from the previous step
     - Clicking the file will import it, with the message "Import Successful"
+    ![Import Successful](assets/app-import-cc-successful.jpeg)
     - The character card will now be in the list as "The Caffeinated Gauntlet"
 
 *If it helps, directly visit the image via [https://gungheap.github.io/llm-power-tools-docs/assets/The_Caffeinated_Gauntlet.png](https://gungheap.github.io/llm-power-tools-docs/assets/The_Caffeinated_Gauntlet.png)*
