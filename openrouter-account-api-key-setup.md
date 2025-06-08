@@ -1,3 +1,6 @@
+---
+title: OpenRouter Setup
+---
 # OpenRouter.ai: Account & API Key Setup
 
 ## 1. Create Account
