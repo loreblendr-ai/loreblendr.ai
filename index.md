@@ -48,7 +48,4 @@ The developer, Trent Robbins, indicated that the app's privacy practices may inc
 
 **Data Not Collected**: The developer does not collect any data from this app.
 
-## Support
-
-- [App Support](https://robbintt.github.io/outlines/docs/byollm_static/byollm-privacy-policy-html.html)
 - [Privacy Policy](privacy-policy.html)
