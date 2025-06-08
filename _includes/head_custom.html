@@ -41,8 +41,11 @@ document.addEventListener("DOMContentLoaded", function() {
   var gettingStartedLink = document.querySelector('#site-nav .nav-list-link[href="' + gettingStartedUrl + '"]');
   if (gettingStartedLink) {
     var parentLi = gettingStartedLink.parentNode;
-    // Only expand if we are not already in the "Getting Started" section.
-    // The theme adds the 'active' class to the parent li of the current page's nav link.
+    /*
+     * Only expand if we are not already in the "Getting Started" section.
+     * The theme adds the 'active' class to the parent li of the current page's nav link,
+     * so we check for that to avoid interfering with the theme's default behavior.
+     */
     if (parentLi && !parentLi.classList.contains('active')) {
       var expanderButton = parentLi.querySelector('.nav-list-expander');
       if (expanderButton && expanderButton.getAttribute('aria-pressed') !== 'true') {
