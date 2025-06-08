@@ -65,11 +65,9 @@ See the screenshot below for reference (items to interact with are circled):
 ![iOS Settings Screen](assets/ios-settings-20250608.png)
 
 ---
-## Import Character Card
+## Download Character Card
 
 You need to save the character card to your iPhone's **Files app**.
-
-This step takes longer to do the first time because of iOS menu structure, I have an improvement, but it's taking some time.
 
 **Important: Do not** use "Save to Photos" or "Copy Image" because it will remove the character data from the image.
 
@@ -81,9 +79,18 @@ This step takes longer to do the first time because of iOS menu structure, I hav
     - If in Chrome, you may select "Download", the image will be in "On My Iphone -> Chrome" in the files app.
     - If in Safari, you can directly open the image, then choose "Save to Files", you will be prompted to select a location, remember it for the next steps.
 2.  Choose a location and tap "Save".
-3. After saving the card, go to the app's **Settings** tab and use the import feature to select the card from your Files app.
+
+*If it helps, directly visit the image via [https://gungheap.github.io/llm-power-tools-docs/assets/The_Caffeinated_Gauntlet.png](https://gungheap.github.io/llm-power-tools-docs/assets/The_Caffeinated_Gauntlet.png)*
+
+---
+## Import Character Card
+
+This step takes longer to do the first time because of iOS menu structure, I have an improvement, but it's taking some time.
+
+1.  In the app's **Settings** tab, toggle `Enable Character Cards` to the "on" position.
+2.  After saving the card, go to the app's **Settings** tab and use the import feature to select the card from your Files app.
     - The photo file may be in "On My iPhone" or "iCloud Drive", you can press back in finder then explore each directory
-4. Import the character card to the app
+3.  Import the character card to the app
     - Go back to the app, select "Settings", "Manage Character Cards"
     - Choose "Import", "allow paste"
     - Select "Import from PNG file"
@@ -93,8 +100,6 @@ This step takes longer to do the first time because of iOS menu structure, I hav
     ![Import Successful](assets/app-import-cc-successful.jpeg)
     - The character card will now be in the list as "The Caffeinated Gauntlet"
 
-*If it helps, directly visit the image via [https://gungheap.github.io/llm-power-tools-docs/assets/The_Caffeinated_Gauntlet.png](https://gungheap.github.io/llm-power-tools-docs/assets/The_Caffeinated_Gauntlet.png)*
-
 For more details, see [Importing Character Cards](importing-character-cards.md).
 
 ---
@@ -102,13 +107,12 @@ For more details, see [Importing Character Cards](importing-character-cards.md).
 
 This scenario is a zany quest to get coffee in a highly bureaucratic workplace.
 
-1.  In the app's **Settings** tab, toggle `Enable Character Cards` to the "on" position.
-2.  Tap `Manage Character Cards`. You will see a list of your imported character cards.
+1.  In the app's **Settings** tab, go to `Manage Character Cards`. You will see a list of your imported character cards.
     ![Character Card List](assets/app-character-cards-list.jpeg)
 
-3.  Select "The Caffeinated Gauntlet" from the list.
+2.  Select "The Caffeinated Gauntlet" from the list.
 
-4.  To start the chat, you have two options:
+3.  To start the chat, you have two options:
     *   **Option A (Quick Start):** Long-press on "The Caffeinated Gauntlet" in the list and tap "Start Chat".
         ![Start Chat from Character Card List](assets/app-startchat-tcg-hardpress.jpeg)
     *   **Option B (Standard):** After selecting the card, go to the main chat view and tap the speech bubble icon to start a new chat with that character.
