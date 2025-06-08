@@ -4,6 +4,8 @@ layout: home
 nav_exclude: true
 ---
 
+<img src="assets/llmpowertools-cartoon-brain.jpeg" alt="LLM Power Tools Cartoon Brain" class="home-logo">
+
 # LLM Power Tools
 
 **AI chat with 300+ models**
