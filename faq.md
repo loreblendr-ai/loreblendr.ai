@@ -17,7 +17,11 @@ Head over to [Getting Started](getting-started.html) to play the test scenario!
 
 ## Privacy and Security
 
-All your chat data is on your icloud container, and cannot be accessed.
+All your chat data is in your icloud container and vault, and cannot be accessed, except by you.
+
+This data is private to you, there is no intention to change this philosophy.
+
+In the future we will collect telemetry.
 
 ---
 
