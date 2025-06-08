@@ -19,7 +19,12 @@
   height: auto;
 }
 </style>
-{%- capture getting_started_url -%}{{ "/getting-started.html" | relative_url }}{%- endcapture -%}
+{%- assign getting_started_page = site.pages | where: "name", "getting-started.md" | first -%}
+{%- if getting_started_page -%}
+  {%- capture getting_started_url -%}{{ getting_started_page.url | relative_url }}{%- endcapture -%}
+{%- else -%}
+  {%- capture getting_started_url -%}{{ "/getting-started.html" | relative_url }}{%- endcapture -%}
+{%- endif -%}
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   const gettingStartedUrl = '{{ getting_started_url | strip }}';
