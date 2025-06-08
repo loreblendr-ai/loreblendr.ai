@@ -10,6 +10,8 @@ Estimated time: 5-10 minutes.
 
 Open this page on your iphone so you can follow the links directly to the app store.
 
+Table of Contents
+
 * TOC
 {:toc}
 
