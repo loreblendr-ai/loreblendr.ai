@@ -1,7 +1,7 @@
 ---
 title: Importing Character Cards
 layout: default
-nav_order: 3
+nav_exclude: true
 ---
 
 # Importing Character Cards
