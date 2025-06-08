@@ -1,5 +1,6 @@
 ---
 title: OpenRouter Setup
+redirect_from: /openrouter-guide.html
 ---
 # Account & Key Setup @ OpenRouter
 
