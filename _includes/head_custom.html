@@ -28,5 +28,16 @@ document.addEventListener("DOMContentLoaded", function() {
     butterbar.innerHTML = 'TestFlight user? Head over to <a href="{{ "/getting-started" | relative_url }}">Getting Started</a>.';
     document.body.insertBefore(butterbar, document.body.firstChild);
   }
+
+  // Always expand the "Getting Started" nav section
+  var gettingStartedLink = document.querySelector('#site-nav .nav-list-link[href*="/getting-started.html"]');
+  if (gettingStartedLink) {
+    var expanderButton = gettingStartedLink.nextElementSibling;
+    if (expanderButton && expanderButton.classList.contains('nav-list-expander')) {
+      if (expanderButton.getAttribute('aria-pressed') !== 'true') {
+        expanderButton.click();
+      }
+    }
+  }
 });
 </script>
