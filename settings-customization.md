@@ -1,6 +1,7 @@
 ---
 title: Settings and Customization
 layout: default
+nav_exclude: true
 ---
 
 # Settings and Customization
