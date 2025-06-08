@@ -1,25 +1,34 @@
 ---
 title: OpenRouter Setup
 layout: default
-redirect_from: /openrouter-guide.html
+parent: Getting Started
+nav_order: 1
 ---
-# Account & Key Setup @ OpenRouter
+
+# OpenRouter Setup
 
 It is recommended to do this on your iphone to easily copy the key.
 
-## 1. Create Account
-1.   Go to [https://accounts.openrouter.ai/sign-up](https://accounts.openrouter.ai/sign-up)
-    *   Recommended: Click the Google "G" button to sign up with Google.
+## 1. Create Account at: [https://accounts.openrouter.ai/sign-up](https://accounts.openrouter.ai/sign-up)
+*   Recommended: Click the Google "G" button to sign up with Google.
+
+![Create OpenRouter Account](assets/openrouter-create-account.jpeg)
 
 ## 2. Create API Key
 
-1.   Go to [https://openrouter.ai/settings/keys](https://openrouter.ai/settings/keys)
-    *   Click "Create Key".
+Do not add payment info at this stage.
+
+1.  Navigate to your account settings by tapping the icon in the top-right, then select "Keys" from the menu.
+    ![OpenRouter Menu](assets/openrouter-menu.jpeg)
+
+2.  On the Keys page, click "Create Key".
+    ![OpenRouter Create Key Button](assets/openrouter-create-key-button.jpeg)
+
+3.  Fill out the form:
     *   **Name:** `Testflight Key`
     *   **Credit Limit:** `0`
     *   **Important:** Copy and save your new API key securely. It won't be shown again.
-    *   Click "Create" button to finish.
-2.   Copy the key into the app
-    * Navigate to the app settings from any page
-    * Paste the key into the "OpenRouter API Key" field
-        * This is in your private iOS vault
+    ![OpenRouter Create Key Form](assets/openrouter-create-key-form.jpeg)
+
+4.  Click the "Create" button to finish.
+5.  Copy the key and paste it into the app.

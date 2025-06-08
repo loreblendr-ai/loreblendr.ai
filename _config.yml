@@ -10,14 +10,3 @@ url: https://gungheap.github.io/llm-power-tools-docs/
 aux_links:
   "Download @ App Store": https://apps.apple.com/us/app/byollm/id6745411393
 
-defaults:
-  -
-    scope:
-      path: "importing-character-cards.md"
-    values:
-      nav_exclude: true
-  -
-    scope:
-      path: "openrouter-account-api-key-setup.md"
-    values:
-      nav_exclude: true
