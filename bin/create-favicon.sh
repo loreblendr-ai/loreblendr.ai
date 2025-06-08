@@ -1,5 +1,10 @@
 #!/bin/bash
 # Creates favicon.ico from a PNG file.
+#
+# Prerequisites:
+#   - Homebrew: https://brew.sh/
+#   - ImageMagick: brew install imagemagick
+#
 # Usage: ./bin/create-favicon.sh <input.png>
 set -euo pipefail
 
