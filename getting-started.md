@@ -37,11 +37,12 @@ Do not add payment info at this stage.
 ---
 ## App Installation (via TestFlight)
 
-1.  Accept the TestFlight invite email.
-2.  Install TestFlight from the iOS App Store.
-3.  Open the TestFlight app.
-4.  Install the app from within TestFlight.
-5.  Open the app.
+1.  Accept the TestFlight invite email from Apple.
+2.  Install the **TestFlight** app from the iOS App Store.
+3.  Open the TestFlight app and you will see LLM Power Tools available to install.
+    ![LLM Power Tools in TestFlight](assets/testflight-llm-power-tools-install.jpeg)
+4.  Tap **INSTALL**.
+5.  Once installed, tap **OPEN**.
 
 ---
 ## App Setup
@@ -79,8 +80,15 @@ For more details, see [Importing Character Cards](importing-character-cards.md).
 This scenario is a zany quest to get coffee in a highly bureaucratic workplace.
 
 1.  In the app's **Settings** tab, toggle `Enable Character Cards` to the "on" position.
-2.  Tap `Manage Character Cards`.
-3.  Select "The Caffeinated Gauntlet" from your list of imported cards.
-4.  Tap the speech bubble icon to start a new chat scenario.
+2.  Tap `Manage Character Cards`. You will see a list of your imported character cards.
+    ![Character Card List](assets/app-character-cards-list.jpeg)
+
+3.  Select "The Caffeinated Gauntlet" from the list.
+
+4.  To start the chat, you have two options:
+    *   **Option A (Quick Start):** Long-press on "The Caffeinated Gauntlet" in the list and tap "Start Chat".
+        ![Start Chat from Character Card List](assets/app-startchat-tcg-hardpress.jpeg)
+    *   **Option B (Standard):** After selecting the card, go to the main chat view and tap the speech bubble icon to start a new chat with that character.
+        ![Start Chat from Main View](assets/app-startchat-tcg-editview-chatbubble.jpeg)
 
 May your quest for coffee be swift and your TPS reports be few!
