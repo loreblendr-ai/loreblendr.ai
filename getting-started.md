@@ -24,3 +24,12 @@ Do not add payment info at this stage.
     *   **Important:** Copy and save your new API key securely. It won't be shown again.
 *   Click "Create" button to finish.
 2. Copy the key into the app
+
+---
+## App Installation (via TestFlight)
+
+1.  Accept the TestFlight invite email.
+2.  Install TestFlight from the iOS App Store.
+3.  Open the TestFlight app.
+4.  Install the app from within TestFlight.
+5.  Open the app.
