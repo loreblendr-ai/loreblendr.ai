@@ -5,6 +5,8 @@ layout: default
 
 # Getting Started
 
+Open this page on your iphone so you can follow the links directly to the app store.
+
 ---
 ## OpenRouter Setup
 
