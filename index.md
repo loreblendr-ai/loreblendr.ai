@@ -45,8 +45,7 @@ The developer, Trent Robbins, indicated that the app's privacy practices may inc
 
 ## Information
 
-- **Seller**: Trent Robbins
-- **Size**: 8.7 MB
+- **Author**: Trent Zock-Robbins
 - **Category**: [Productivity](https://itunes.apple.com/us/genre/id6007)
 - **Languages**: English
 - **Age Rating**: 4+
