@@ -19,11 +19,12 @@
   height: auto;
 }
 </style>
+{%- capture getting_started_url -%}{{ "/getting-started.html" | relative_url }}{%- endcapture -%}
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-  const gettingStartedUrl = '{{ "/getting-started.html" | relative_url }}';
+  const gettingStartedUrl = '{{ getting_started_url | strip }}';
 
-  // Exclude butterbar from the 'getting-started' page.
+  /* Exclude butterbar from the 'getting-started' page. */
   if (window.location.pathname.indexOf('getting-started') === -1) {
     var butterbar = document.createElement('div');
     butterbar.className = 'butterbar';
@@ -31,8 +32,8 @@ document.addEventListener("DOMContentLoaded", function() {
     document.body.insertBefore(butterbar, document.body.firstChild);
   }
 
-  // Always expand the "Getting Started" nav section
-  var gettingStartedLink = document.querySelector('#site-nav .nav-list-link[href*="/getting-started.html"]');
+  /* Always expand the "Getting Started" nav section */
+  var gettingStartedLink = document.querySelector('#site-nav .nav-list-link[href="' + gettingStartedUrl + '"]');
   if (gettingStartedLink) {
     var expanderButton = gettingStartedLink.nextElementSibling;
     if (expanderButton && expanderButton.classList.contains('nav-list-expander')) {
