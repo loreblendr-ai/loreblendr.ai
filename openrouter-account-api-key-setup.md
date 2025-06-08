@@ -1,9 +1,7 @@
 # OpenRouter.ai: Account & API Key Setup
 
 ## 1. Create Account
-*   Go to [https://openrouter.ai/](https://openrouter.ai/).
-*   Click "Sign in" (top right).
-*   Choose "Sign up".
+*   Go to [https://accounts.openrouter.ai/sign-up](https://accounts.openrouter.ai/sign-up).
 *   Recommended: Click the Google "G" button to sign up with Google.
 *   Complete Google sign-up.
 
