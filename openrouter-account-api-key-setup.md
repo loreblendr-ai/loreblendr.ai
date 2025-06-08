@@ -2,6 +2,8 @@
 title: OpenRouter Setup
 layout: default
 nav_exclude: true
+redirect_from:
+  - /openrouter-guide.html
 ---
 
 # OpenRouter Account & API Key Setup

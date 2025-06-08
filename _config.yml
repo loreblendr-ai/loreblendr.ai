@@ -11,4 +11,6 @@ baseurl: /llm-power-tools-docs
 aux_links:
   "Download @ App Store": https://apps.apple.com/us/app/llm-power-tools/id6745411393
 
+plugins:
+  - jekyll-redirect-from
 
