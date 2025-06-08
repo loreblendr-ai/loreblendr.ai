@@ -73,24 +73,22 @@ You need to save the character card to your iPhone's **Files app**.
 *Character card credited to [this Discord post](https://discord.com/channels/1100685673633153084/1378119188832321687).*
 
 1.  Long-press the image and choose "Open Image". 
-    - Long press the image again select "Share" then "Save to Files".
+2. Long press the image again select "Share" then "Save to Files".
     - If in Chrome, you may select "Download", the image will be in "On My Iphone -> Chrome" in the files app.
     - If in Safari, you can directly open the image, then choose "Save to Files", you will be prompted to select a location, remember it for the next steps.
-2.  Choose a location and tap "Save".
+2.  Choose a location in Files and tap "Save".
 
 *If it helps, directly visit the image via [https://gungheap.github.io/llm-power-tools-docs/assets/The_Caffeinated_Gauntlet.png](https://gungheap.github.io/llm-power-tools-docs/assets/The_Caffeinated_Gauntlet.png)*
 
 ---
 ## Import Character Card
 
-This step takes longer to do the first time because of iOS menu structure, I have an improvement, but it's taking some time.
-
 1.  In the app's **Settings** tab, toggle `Enable Character Cards` to the "on" position.
 2.  After saving the card, go to the app's **Settings** tab and use the import feature to select the card from your Files app.
     - The photo file may be in "On My iPhone" or "iCloud Drive", you can press back in finder then explore each directory
 3.  Import the character card to the app
     - Go back to the app, select "Settings", "Manage Character Cards"
-    - Choose "Import", "allow paste"
+    - Choose "Import" then "allow paste"
     - Select "Import from PNG file"
     ![Import from PNG](assets/app-import-cc-from-png.png)
     - Navigate to the file from the previous step
@@ -111,9 +109,9 @@ This scenario is a zany quest to get coffee in a highly bureaucratic workplace.
 2.  Select "The Caffeinated Gauntlet" from the list.
 
 3.  To start the chat, you have two options:
-    *   **Option A (Quick Start):** Long-press on "The Caffeinated Gauntlet" in the list and tap "Start Chat".
+    *   **Option 1:** Long-press on "The Caffeinated Gauntlet" in the list and tap "Start Chat".
         ![Start Chat from Character Card List](assets/app-startchat-tcg-hardpress.jpeg)
-    *   **Option B (Standard):** After selecting the card, go to the main chat view and tap the speech bubble icon to start a new chat with that character.
+    *   **Option 2:** After selecting the card, go to the main chat view and tap the speech bubble icon to start a new chat with that character.
         ![Start Chat from Main View](assets/app-startchat-tcg-editview-chatbubble.jpeg)
 
 May your quest for coffee be swift and your TPS reports be few!
