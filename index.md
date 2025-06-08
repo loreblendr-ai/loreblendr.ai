@@ -13,7 +13,7 @@ Available on the [App Store](https://apps.apple.com/us/app/llm-power-tools/id674
 
 ## Testflight Users
 
-Head over to [Getting Started](getting-started.html)
+Head over to [Getting Started](getting-started.html) to play the test scenario!
 
 ## Description
 
