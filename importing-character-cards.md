@@ -1,7 +1,6 @@
 ---
 title: Importing Character Cards
 layout: default
-nav_exclude: true
 ---
 
 # Importing Character Cards
