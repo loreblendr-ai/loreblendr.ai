@@ -8,6 +8,9 @@
 #   ./bin/local-server.sh
 set -euo pipefail
 
+echo "Setting up Bundler to install gems into ./vendor/bundle"
+bundle config set --local path 'vendor/bundle'
+
 echo "Installing dependencies from Gemfile..."
 bundle install
 
