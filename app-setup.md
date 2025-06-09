@@ -15,3 +15,6 @@ nav_order: 3
 
 See the screenshot below for reference (items to interact with are circled):
 ![iOS Settings Screen](assets/ios-settings-20250608.png)
+
+---
+[Next: OpenRouter Setup](./openrouter-account-api-key-setup.html)

@@ -33,3 +33,6 @@ Once your account is created, you can generate an API key.
 1.  Open LLM Power Tools and go to the **Settings** tab.
 2.  Paste your API key into the "OpenRouter API Key" field.
 3.  The key is stored securely in your device's private keychain.
+
+---
+[Next: Importing Character Cards](./importing-character-cards.html)

@@ -36,3 +36,6 @@ This is straightforward:
 2.  Open LLM Power Tools, go to Settings, and use the import option. The app should detect the JSON on your clipboard, or you can paste it in.
 
 That's it! You should now have your character ready to chat.
+
+---
+[Next: Start Scenario](./start-scenario.html)

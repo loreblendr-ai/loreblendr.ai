@@ -13,3 +13,6 @@ nav_order: 2
     ![LLM Power Tools in TestFlight](assets/testflight-llm-power-tools-install.jpeg)
 4.  Tap **INSTALL**.
 5.  Once installed, tap **OPEN**.
+
+---
+[Next: App Setup](./app-setup.html)
