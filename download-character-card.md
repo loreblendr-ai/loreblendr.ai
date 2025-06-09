@@ -21,3 +21,6 @@ You need to save the character card to your iPhone's **Files app**.
 2.  Choose a location in Files and tap "Save".
 
 *If it helps, directly visit the image via [https://gungheap.github.io/llm-power-tools-docs/assets/The_Caffeinated_Gauntlet.png](https://gungheap.github.io/llm-power-tools-docs/assets/The_Caffeinated_Gauntlet.png)*
+
+---
+[Next: Import Character Card](./import-a-character-card.html)

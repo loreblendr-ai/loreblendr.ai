@@ -12,3 +12,6 @@ This guide will walk you through setting up the LLM Power Tools app, from instal
 Estimated time: 5-10 minutes.
 
 Open this page on your iPhone so you can follow the links directly to the app store and other resources.
+
+---
+[Next: Create OpenRouter Key](./create-openrouter-key.html)

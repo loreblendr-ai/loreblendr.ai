@@ -19,3 +19,6 @@ nav_order: 5
     - Clicking the file will import it, with the message "Import Successful"
     ![Import Successful](assets/app-import-cc-successful.jpeg)
     - The character card will now be in the list as "The Caffeinated Gauntlet"
+
+---
+[Next: Start Scenario](./start-scenario.html)

@@ -32,3 +32,6 @@ Do not add payment info at this stage.
 
 4.  Click the "Create" button to finish.
 5.  Copy the key and paste it into the app.
+
+---
+[Next: App Installation](./app-installation.html)
