@@ -21,6 +21,3 @@ This scenario is a zany quest to get coffee in a highly bureaucratic workplace.
         ![Start Chat from Main View](assets/app-startchat-tcg-editview-chatbubble.jpeg)
 
 May your quest for coffee be swift and your TPS reports be few!
-
----
-[Next: Settings and Customization](./settings-customization.html)
