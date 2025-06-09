@@ -16,6 +16,6 @@ bundle config set --local path 'vendor/bundle'
 echo "Installing dependencies from Gemfile..."
 bundle install
 
-echo "Starting local server at http://127.0.0.1:4000"
+echo "Starting local server at http://127.0.0.1:4000/llm-power-tools-docs/"
 echo "Press Ctrl+C to stop."
-bundle exec jekyll serve --baseurl ""
+bundle exec jekyll serve
