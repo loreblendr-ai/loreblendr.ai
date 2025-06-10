@@ -17,3 +17,6 @@ redirect_from:
 plugins:
   - jekyll-redirect-from
 
+exclude:
+  - assets/The_Caffeinated_Gauntlet.png
+
