@@ -11,4 +11,5 @@ aider --model $MODEL \
   --edit-format diff-fenced \
   --yes-always \
   --no-git-commit-verify \
+  --cache-prompts \
   --no-auto-lint
