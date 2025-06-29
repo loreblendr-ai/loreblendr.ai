@@ -18,3 +18,5 @@ vendor/bundle
 .aider.tags.cache.v4
 
 .DS_Store
+.aider*
+!.aiderignore
