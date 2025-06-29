@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MODEL=gemini/gemini-2.5-pro-preview-06-05
+MODEL=gemini/gemini-2.5-pro
 
 aider --model $MODEL \
   --dark-mode \
