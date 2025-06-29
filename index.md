@@ -4,9 +4,9 @@ layout: home
 nav_exclude: true
 ---
 
-<img src="assets/llmpowertools-cartoon-brain.jpeg" alt="LLM Power Tools Cartoon Brain" class="home-logo">
+<img src="assets/llmpowertools-cartoon-brain.jpeg" alt="LoreBlendr.AI Cartoon Brain" class="home-logo">
 
-# LLM Power Tools
+# LoreBlendr.AI
 
 **AI chat with 300+ models**
 

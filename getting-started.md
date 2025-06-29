@@ -7,7 +7,7 @@ nav_order: 1
 
 # Getting Started
 
-This guide will walk you through setting up the LLM Power Tools app, from installing it via TestFlight to starting your first chat with a character card.
+This guide will walk you through setting up the LoreBlendr.AI app, from installing it via TestFlight to starting your first chat with a character card.
 
 Estimated time: 5-10 minutes.
 
