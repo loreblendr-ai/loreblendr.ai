@@ -4,7 +4,7 @@ layout: home
 nav_exclude: true
 ---
 
-<img src="assets/llmpowertools-cartoon-brain.jpeg" alt="LoreBlendr.AI Cartoon Brain" class="home-logo">
+<img src="assets/lore-blender-ai.png" alt="LoreBlendr.AI - Image of a giant blender with fandoms surrounding and swirling within, represented by cities, castles, nature, flying vehicles, and waterworks" class="home-logo">
 
 # LoreBlendr.AI
 
