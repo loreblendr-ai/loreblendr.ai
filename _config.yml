@@ -9,7 +9,7 @@ url: https://loreblendr.ai
 baseurl: /docs
 
 aux_links:
-  "Discord": /discord/
+  "Discord": /docs/discord/
   "Download @ App Store": https://apps.apple.com/us/app/llm-power-tools/id6745411393
 
 redirect_from:
