@@ -10,7 +10,7 @@ nav_exclude: true
 
 **AI chat with 300+ models**
 
-<a href="discord.html" style="vertical-align: middle; margin-right: 8px;"><img src="https://cdn.simpleicons.org/discord/FFFFFF" alt="Discord" width="32" height="32"></a>Available on the [App Store](https://apps.apple.com/us/app/llm-power-tools/id6745411393).
+Available on the [App Store](https://apps.apple.com/us/app/llm-power-tools/id6745411393).
 
 
 ## Testflight Users
