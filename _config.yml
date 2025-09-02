@@ -8,8 +8,9 @@ favicon_ico: /favicon.ico
 url: https://loreblendr.ai
 baseurl: /docs
 
+# TODO fixme - The aux link is /discord on github, somehow the local doesn't redirect from /docs/ for everything.
 aux_links:
-  "Discord": /docs/discord/
+  "Discord": /discord
   "Download @ App Store": https://apps.apple.com/us/app/llm-power-tools/id6745411393
 
 redirect_from:
