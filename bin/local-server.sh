@@ -18,4 +18,4 @@ bundle install
 
 echo "Starting local server at http://127.0.0.1:4000/docs/"
 echo "Press Ctrl+C to stop."
-bundle exec jekyll serve
+bundle exec jekyll serve --port 9000
