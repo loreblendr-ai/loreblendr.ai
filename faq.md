@@ -12,7 +12,7 @@ nav_order: 2
 
 ## TestFlight Users
 
-Head over to [Getting Started](getting-started.html) to play the test scenario!
+Head over to [Getting Started](getting-started) to play the test scenario!
 
 ---
 

@@ -23,4 +23,4 @@ nav_order: 5
 - The character card will now be in the list as "The Caffeinated Gauntlet"
 
 ---
-[Next: Start Scenario](./start-scenario.html)
+[Next: Start Scenario](./start-scenario)

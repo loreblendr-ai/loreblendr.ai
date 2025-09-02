@@ -33,4 +33,4 @@ Once your account is created, you can generate an API key.
 3.  The key is stored securely in your device's private keychain.
 
 ---
-[Next: Importing Character Cards](./importing-character-cards.html)
+[Next: Importing Character Cards](./importing-character-cards)

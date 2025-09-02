@@ -28,4 +28,4 @@ You need to save the character card to your iPhone's **Files app**.
 
 
 ---
-[Next: Import Character Card](./import-a-character-card.html)
+[Next: Import Character Card](./import-a-character-card)

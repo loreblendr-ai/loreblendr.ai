@@ -15,4 +15,4 @@ nav_order: 2
 5.  Once installed, tap **OPEN**.
 
 ---
-[Next: App Setup](./app-setup.html)
+[Next: App Setup](./app-setup)

@@ -15,7 +15,7 @@ Available on the [App Store](https://apps.apple.com/us/app/llm-power-tools/id674
 
 ## Testflight Users
 
-Head over to [Getting Started](getting-started.html) to play the test scenario!
+Head over to [Getting Started](getting-started) to play the test scenario!
 
 ## Description
 
@@ -51,4 +51,4 @@ Chat with 300+ AI models in one place! Seamlessly manage conversation history wi
 
 **Data Not Collected**: The developer does not collect any data from this app.
 
-- [Privacy Policy](privacy-policy.html)
+- [Privacy Policy](privacy-policy)

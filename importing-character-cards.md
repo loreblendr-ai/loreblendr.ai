@@ -38,4 +38,4 @@ This is straightforward:
 That's it! You should now have your character ready to chat.
 
 ---
-[Next: Start Scenario](./start-scenario.html)
+[Next: Start Scenario](./start-scenario)

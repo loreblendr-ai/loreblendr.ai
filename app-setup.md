@@ -17,4 +17,4 @@ See the screenshot below for reference (items to interact with are circled):
 ![iOS Settings Screen](assets/ios-settings-20250608.png)
 
 ---
-[Next: Download Character Card](./download-character-card.html)
+[Next: Download Character Card](./download-character-card)
