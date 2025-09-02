@@ -2,7 +2,7 @@
 layout: default
 title: Discord
 nav_exclude: true
-permalink: /discord.html
+permalink: /discord
 ---
 
 <meta http-equiv="refresh" content="0; url=https://discord.gg/PzRtWtq5qz" />
