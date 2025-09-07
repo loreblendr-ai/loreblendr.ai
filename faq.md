@@ -37,6 +37,7 @@ In the future we will collect telemetry.
 ### References
 *   [Provisioning API Keys](https://openrouter.ai/docs/features/provisioning-api-keys)
 *   [Bring Your Own Key (BYOK)](https://openrouter.ai/docs/use-cases/byok)
+*   [List of free models](https://openrouter.ai/models/?q=free)
 
 ---
 
