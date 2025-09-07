@@ -4,52 +4,34 @@ layout: home
 nav_exclude: true
 ---
 
-<!--<img src="assets/lore-blender-ai.png" alt="LoreBlendr.AI - Image of a giant blender with fandoms surrounding and swirling within, represented by cities, castles, nature, flying vehicles, and waterworks" class="home-logo"> -->
-
-
 # LoreBlendr.AI
 
-**AI chat with 300+ models**
+**Your ultimate AI chat companion for immersive storytelling and dynamic conversations.**
 
 Available on the [App Store](https://apps.apple.com/us/app/llm-power-tools/id6745411393).
 
+LoreBlendr.AI is a powerful and private AI chat application that puts you in control. Connect to hundreds of AI models, create unique personas, and bring your characters to life with character cards and dynamic lorebooks.
 
-## Testflight Users
+## Key Features
 
-Head over to [Legacy Getting Started](legacy-getting-started) to play the test scenario!
+### Expansive AI Model Access
+Connect to over 300+ AI models through services like [OpenRouter](https://openrouter.ai/) and [Gemini](https://ai.google.dev/). LoreBlendr.AI makes it easy to [set up providers]({% link gs-provider-setup.md %}), including custom OpenAI-compatible APIs.
 
-## Description
+### Character Cards
+[Import character cards]({% link gs-import-character-card.md %}) from popular online repositories to instantly start chatting with new and exciting characters.
 
-Chat with 300+ AI models in one place! Seamlessly manage conversation history with undo and duplicate features. Your personal AI assistant powered by OpenRouter.
+### Personas
+Define your own voice in conversations by [creating and managing multiple personas]({% link gs-create-persona.md %}). Switch between them to suit different chat scenarios.
 
-## Features
+### Dynamic Lorebooks
+Enrich your chats with dynamic context using [lorebooks]({% link gs-import-lorebook.md %}). Import or create your own to automatically inject relevant information into the conversation based on keywords, making your interactions more detailed and consistent.
 
-- Access over 300 AI models.
-- Manage conversation history with undo and duplicate.
-- Powered by OpenRouter.
-- No server needed for core functionality.
+### Advanced Chat Control
+Take full control of your conversations with a [suite of advanced tools]({% link gs-advanced-chat-tools.md %}). Manage chat history with options to edit titles or duplicate chats. Within a conversation, you can edit, regenerate, or delete individual messages to perfectly craft your story.
 
-## Planned Features
+### Privacy-Focused
+Your data is yours. All chat history and API keys are stored securely in your private iCloud container and keychain. The developer does not collect any data from the app. Read the [Privacy Policy](privacy-policy).
 
-- MCP (wip)
-- Character Cards (testflight external testing)
+---
 
-## What's New
-
-**Version 0.0.35** (May 29, 2025)
-- Added donation option.
-
-## In-App Purchases
-
-- **Small Donation**: \$9.99 - A way to say "Thank You!"
-
-## Compatibility
-
-- **iPhone**: Requires iOS 18.4 or later.
-- **iPad**: Requires iPadOS 18.4 or later.
-- **Mac**: Requires macOS 15.4 or later and a Mac with Apple M1 chip or later.
-- **Apple Vision**: Requires visionOS 2.4 or later.
-
-**Data Not Collected**: The developer does not collect any data from this app.
-
-- [Privacy Policy](privacy-policy)
+Come and join us on [Discord](/discord)!
