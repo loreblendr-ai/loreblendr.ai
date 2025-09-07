@@ -46,6 +46,7 @@ In the future we will collect telemetry.
 Free tier users have limits on requests per minute (RPM) and requests per day (RPD) which vary by model.
 *   **Gemini 2.5 Pro:** 5 RPM / 100 RPD
 *   **Gemini 2.5 Flash:** 10 RPM / 250 RPD
+*   **Gemini 2.5 Flash-Lite:** 15 RPM / 1000 RPD
 *   For full details on all models and tiers, see [Gemini API Rate Limits](https://ai.google.dev/gemini-api/docs/rate-limits#current-rate-limits).
 
 ### References
