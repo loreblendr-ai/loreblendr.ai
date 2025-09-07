@@ -18,20 +18,28 @@ Your API keys are stored in your icloud keychain. Only your icloud account can a
 
 Follow these steps to add and configure an AI provider.
 
-1.  Navigate to the **Settings** tab by tapping the gear icon on the top left of the home screen.
-    ![Settings Gear](assets/loreblendr/screenshots/home-settings.png)
+### Open Settings
 
-2.  Tap on **Manage Models & Providers**.
-    ![Manage Models & Providers](assets/loreblendr/screenshots/settings-provider-highlight.png)
+Navigate to the **Settings** tab by tapping the gear icon on the top left of the home screen.
+![Settings Gear](assets/loreblendr/screenshots/home-settings.png)
 
-3.  Tap the **+** button to open the "Add Provider" screen. Select a preset for a popular service like OpenRouter or Gemini. These two offer free models.
-    - Top recommendations: 
-        1. `gemini-2.5-flash` with free key via [Google AI Studio](https://aistudio.google.com/apikey)
-        2. `deepseek/deepseek-chat-v3.1:free` via [OpenRouter API](https://openrouter.ai/settings/keys) -- Pay $10 for [higher rate limits](https://openrouter.ai/docs/faq#api-technical-specifications)
+### Manage Models & Providers
 
-    ![Select Preset Provider](assets/loreblendr/screenshots/provider-select-preset.png)
+Tap on **Manage Models & Providers**.
+![Manage Models & Providers](assets/loreblendr/screenshots/settings-provider-highlight.png)
 
-4.  (Optional) You can also configure a **Custom Provider** if you have your own API endpoint.
-    - For kobold, you can use any model name and any api key.
+### Add a Preset Provider
 
-    ![Add Custom Kobold Provider](assets/loreblendr/screenshots/provider-add-custom-kobold.png)
+Tap the **+** button to open the "Add Provider" screen. Select a preset for a popular service like OpenRouter or Gemini. These two offer free models.
+- Top recommendations: 
+    1. `gemini-2.5-flash` with free key via [Google AI Studio](https://aistudio.google.com/apikey)
+    2. `deepseek/deepseek-chat-v3.1:free` via [OpenRouter API](https://openrouter.ai/settings/keys) -- Pay $10 for [higher rate limits](https://openrouter.ai/docs/faq#api-technical-specifications)
+
+![Select Preset Provider](assets/loreblendr/screenshots/provider-select-preset.png)
+
+### Add a Custom Provider (Optional)
+
+You can also configure a **Custom Provider** if you have your own API endpoint.
+- For kobold, you can use any model name and any api key.
+
+![Add Custom Kobold Provider](assets/loreblendr/screenshots/provider-add-custom-kobold.png)
