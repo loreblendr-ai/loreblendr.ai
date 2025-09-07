@@ -38,7 +38,8 @@ To see the keys for a lorebook's entries:
 #### Triggering Behavior
 
 -   **Who can trigger:** Both your messages and the AI's responses can trigger lorebook entries.
--   **Matching:** The trigger is based on an exact, case-sensitive match of a whole word. For example, if a key is "AI", it will only be triggered by "AI" and not by "artificial intelligence" or "ai".
+-   **Matching:** A key is activated if it is not immediately preceded or followed by an alphanumeric character. This correctly matches "sti" in "sti-laden" but not in "sticking".
+-   **Lookback:** The entire conversation is checked, currently lorebook entries do not fade. (This is a planned feature along with conversation export, summaries, and other long chat features.)
 
 ### A Note on Development
 
