@@ -28,6 +28,10 @@
   display: block;
   max-width: 100%;
   height: auto;
+  -webkit-mask-image: linear-gradient(to bottom, transparent, black 20%, black 80%, transparent), linear-gradient(to right, transparent, black 20%, black 80%, transparent);
+  mask-image: linear-gradient(to bottom, transparent, black 20%, black 80%, transparent), linear-gradient(to right, transparent, black 20%, black 80%, transparent);
+  -webkit-mask-composite: source-in;
+  mask-composite: intersect;
 }
 </style>
 {%- assign getting_started_page = site.pages | where: "name", "getting-started.md" | first -%}
