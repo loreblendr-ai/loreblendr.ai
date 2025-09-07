@@ -9,7 +9,7 @@ nav_order: 4
 
 **Important Note:** Before importing a character card, ensure you have followed the instructions on how to [download a character card]({% link download-character-card.md %}).
 
-Importing a Character Card into LoreBlendr allows you to quickly start a chat with a new persona.
+Importing a Character Card into LoreBlendr allows you to quickly start a chat with the character.
 
 1.  From the home screen, tap **Manage** next to the **Characters** section.![Home screen with Manage button highlighted]({{site.baseurl}}/assets/loreblendr/screenshots/home-manage.png)
 
