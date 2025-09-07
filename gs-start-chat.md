@@ -2,7 +2,7 @@
 title: Start Chat
 layout: default
 parent: Getting Started
-nav_order: 7
+nav_order: 8
 ---
 
 # Start a Chat
