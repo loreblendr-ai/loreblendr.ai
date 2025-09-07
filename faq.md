@@ -47,3 +47,6 @@ Free tier users have limits on requests per minute (RPM) and requests per day (R
 *   **Gemini 2.5 Pro:** 5 RPM / 100 RPD
 *   **Gemini 2.5 Flash:** 10 RPM / 250 RPD
 *   For full details on all models and tiers, see [Gemini API Rate Limits](https://ai.google.dev/gemini-api/docs/rate-limits#current-rate-limits).
+
+### References
+*   [Get an API key](https://aistudio.google.com/apikey) - you can generate a free API key with your Google account.
