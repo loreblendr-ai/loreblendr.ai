@@ -16,6 +16,7 @@ bundle config set --local path 'vendor/bundle'
 echo "Installing dependencies from Gemfile..."
 bundle install
 
-echo "Starting local server at http://127.0.0.1:9000/docs/"
+echo "Starting local server at http://127.0.0.1:9000/"
 echo "Press Ctrl+C to stop."
-bundle exec jekyll serve --port 9000
+# set baseurl to simulate github pages which drops the _config /docs/ path prefix.
+bundle exec jekyll serve --port 9000 --baseurl ''
