@@ -19,4 +19,4 @@ Importing a Character Card into LoreBlendr allows you to quickly start a chat wi
 
 3.  Tap **Import From a .png File**, then navigate through your device's files to select the character card you downloaded.
 
-    ![Import Character Card screen with Import button highlighted]({{site.baseurl}}/assets/loreblendr/screenshots/import-character-card.png)Once imported, the character will be available in your list of Personas to start a chat with.
+    ![Import Character Card screen with Import button highlighted]({{site.baseurl}}/assets/loreblendr/screenshots/import-character-card.png)Once imported, the character will be available in your list of Characters to start a chat with.
