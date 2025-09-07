@@ -9,6 +9,10 @@ nav_order: 5
 
 Personas define the "voice" you use when chatting with characters. You can create personas for different scenarios.
 
+- [Select a Persona](#select-a-persona)
+- [Create a New Persona](#create-a-new-persona)
+- [Edit or Delete a Persona](#edit-or-delete-a-persona)
+
 ### Select a Persona
 1.  Go to the **Manage Personas** screen.
 2.  Tap a persona to select it for new chats. The selected persona is highlighted in blue.
