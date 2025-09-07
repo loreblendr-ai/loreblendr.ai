@@ -18,6 +18,17 @@
   width: 100%;
   height: auto;
 }
+.sidebar-logo-container {
+  display: block;
+  padding: 0 20px 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid var(--jtc-border-color, #eef0f2);
+}
+.sidebar-logo {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
 </style>
 {%- assign getting_started_page = site.pages | where: "name", "getting-started.md" | first -%}
 {%- if getting_started_page -%}
@@ -76,6 +87,22 @@ document.addEventListener("DOMContentLoaded", function() {
         expanderButton.click();
       }
     }
+  }
+
+  /* Add logo to sidebar */
+  var sideNav = document.getElementById('site-nav');
+  if (sideNav) {
+    var logoContainer = document.createElement('a');
+    logoContainer.href = '{{ "/" | relative_url }}';
+    logoContainer.className = 'sidebar-logo-container';
+
+    var logoImg = document.createElement('img');
+    logoImg.src = '{{ "/assets/lore-blender-ai.png" | relative_url }}';
+    logoImg.alt = 'LoreBlendr.AI Logo';
+    logoImg.className = 'sidebar-logo';
+
+    logoContainer.appendChild(logoImg);
+    sideNav.insertBefore(logoContainer, sideNav.firstChild);
   }
 });
 </script>
