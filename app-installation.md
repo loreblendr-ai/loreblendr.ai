@@ -1,7 +1,7 @@
 ---
 title: App Installation
 layout: default
-parent: Getting Started
+parent: Legacy Getting Started
 nav_order: 2
 ---
 

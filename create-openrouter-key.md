@@ -1,7 +1,7 @@
 ---
 title: Create OpenRouter Key
 layout: default
-parent: Getting Started
+parent: Legacy Getting Started
 nav_order: 1
 redirect_from:
   - /openrouter-guide.html

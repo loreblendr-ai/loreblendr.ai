@@ -1,16 +1,12 @@
 ---
 title: Getting Started
 layout: default
-has_children: true
+has_children: false
 nav_order: 1
 ---
 
 # Getting Started
 
-This guide will walk you through setting up the LoreBlendr.AI app, from installing it via TestFlight to starting your first chat with a character card.
+This is the new getting started guide.
 
-Estimated time: 5-10 minutes.
-
-Open this page on your iPhone so you can follow the links directly to the app store and other resources.
-
-[Next: Create OpenRouter Key](./create-openrouter-key)
+(Content to be added)

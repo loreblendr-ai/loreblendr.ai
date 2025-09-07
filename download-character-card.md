@@ -1,7 +1,7 @@
 ---
 title: Download Character Card
 layout: default
-parent: Getting Started
+parent: Legacy Getting Started
 nav_order: 4
 ---
 
