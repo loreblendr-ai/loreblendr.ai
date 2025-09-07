@@ -2,7 +2,7 @@
 title: Import Lorebook
 layout: default
 parent: Getting Started
-nav_order: 4
+nav_order: 5
 ---
 
 # Import Lorebook

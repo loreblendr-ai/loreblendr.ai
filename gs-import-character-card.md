@@ -2,7 +2,7 @@
 title: Import Character Card
 layout: default
 parent: Getting Started
-nav_order: 3
+nav_order: 4
 ---
 
 # Import Character Card

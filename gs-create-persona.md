@@ -2,7 +2,7 @@
 title: Create Persona
 layout: default
 parent: Getting Started
-nav_order: 5
+nav_order: 6
 ---
 
 # Create and Manage Personas
