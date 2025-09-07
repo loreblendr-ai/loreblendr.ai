@@ -9,6 +9,10 @@ nav_order: 2
 
 - [Privacy](#privacy)
 - [Instructions](#instructions)
+  - [1. Open Settings](#1-open-settings)
+  - [2. Manage Models & Providers](#2-manage-models-providers)
+  - [3. Add a Preset Provider](#3-add-a-preset-provider)
+  - [4. Add a Custom Provider (Optional)](#4-add-a-custom-provider-optional)
 
 ## Privacy
 
@@ -18,17 +22,17 @@ Your API keys are stored in your icloud keychain. Only your icloud account can a
 
 Follow these steps to add and configure an AI provider.
 
-### Open Settings
+### 1. Open Settings
 
 Navigate to the **Settings** tab by tapping the gear icon on the top left of the home screen.
 ![Settings Gear](assets/loreblendr/screenshots/home-settings.png)
 
-### Manage Models & Providers
+### 2. Manage Models & Providers
 
 Tap on **Manage Models & Providers**.
 ![Manage Models & Providers](assets/loreblendr/screenshots/settings-provider-highlight.png)
 
-### Add a Preset Provider
+### 3. Add a Preset Provider
 
 Tap the **+** button to open the "Add Provider" screen. Select a preset for a popular service like OpenRouter or Gemini. These two offer free models.
 - Top recommendations: 
@@ -37,7 +41,7 @@ Tap the **+** button to open the "Add Provider" screen. Select a preset for a po
 
 ![Select Preset Provider](assets/loreblendr/screenshots/provider-select-preset.png)
 
-### Add a Custom Provider (Optional)
+### 4. Add a Custom Provider (Optional)
 
 You can also configure a **Custom Provider** if you have your own API endpoint.
 - For kobold, you can use any model name and any api key.
