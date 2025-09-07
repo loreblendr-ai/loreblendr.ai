@@ -7,6 +7,8 @@ nav_order: 2
 
 # Provider Setup
 
+- [Privacy](#privacy)
+- [Instructions](#instructions)
 
 ## Privacy
 
