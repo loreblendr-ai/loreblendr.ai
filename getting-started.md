@@ -7,4 +7,7 @@ nav_order: 1
 
 # Getting Started
 
+
+Come and join us on [Discord](/discord)!
+
 This guide will walk you through setting up the LoreBlendr.AI app.

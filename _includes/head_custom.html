@@ -53,12 +53,14 @@ document.addEventListener("DOMContentLoaded", function() {
   const contentUrl = '{{ content_url | strip }}';
 
   /* Exclude butterbar from the 'getting-started' page. */
+  /*
   if (window.location.pathname.indexOf('getting-started') === -1) {
-    var butterbar = document.createElement('div');
-    butterbar.className = 'butterbar';
-    butterbar.innerHTML = 'TestFlight user? Head over to <a href="' + gettingStartedUrl + '">Getting Started</a>.';
-    document.body.insertBefore(butterbar, document.body.firstChild);
   }
+  */
+  var butterbar = document.createElement('div');
+  butterbar.className = 'butterbar';
+  butterbar.innerHTML = 'New user? Join us on <a href="/discord">Discord</a>!';
+  document.body.insertBefore(butterbar, document.body.firstChild);
 
   /* Always expand the "Getting Started" nav section */
   var gettingStartedLink = document.querySelector('#site-nav .nav-list-link[href="' + gettingStartedUrl + '"]');
