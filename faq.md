@@ -37,3 +37,13 @@ In the future we will collect telemetry.
 ### References
 *   [Provisioning API Keys](https://openrouter.ai/docs/features/provisioning-api-keys)
 *   [Bring Your Own Key (BYOK)](https://openrouter.ai/docs/use-cases/byok)
+
+---
+
+## Gemini
+
+### Rate Limits
+Free tier users have limits on requests per minute (RPM) and requests per day (RPD) which vary by model.
+*   **Gemini 2.5 Pro:** 5 RPM / 100 RPD
+*   **Gemini 2.5 Flash:** 10 RPM / 250 RPD
+*   For full details on all models and tiers, see [Gemini API Rate Limits](https://ai.google.dev/gemini-api/docs/rate-limits#current-rate-limits).
