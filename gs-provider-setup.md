@@ -10,9 +10,9 @@ nav_order: 2
 - [Privacy](#privacy)
 - [Instructions](#instructions)
   - [1. Open Settings](#1-open-settings)
-  - [2. Manage Models & Providers](#2-manage-models-providers)
+  - [2. Manage Models & Providers](#2-manage-models--providers)
   - [3. Add a Preset Provider](#3-add-a-preset-provider)
-  - [4. Add a Custom Provider (Optional)](#4-add-a-custom-provider-optional)
+- [(Optional) Add a Custom Provider](#optional-add-a-custom-provider)
 
 ## Privacy
 
@@ -41,9 +41,13 @@ Tap the **+** button to open the "Add Provider" screen. Select a preset for a po
 
 ![Select Preset Provider](assets/loreblendr/screenshots/provider-select-preset.png)
 
-### 4. Add a Custom Provider (Optional)
+## (Optional) Add a Custom Provider
 
-You can also configure a **Custom Provider** if you have your own API endpoint.
-- For kobold, you can use any model name and any api key.
+**Important:** This is an advanced usage, usually for hosting your own models.
+
+- A custom provider can be any OpenAI API compatible provider.
+    - chat completions api, not responses api (yet)
+- You can also configure a **Custom Provider** if you have your own API endpoint.
+    - For kobold local, you can use any model name and any api key.
 
 ![Add Custom Kobold Provider](assets/loreblendr/screenshots/provider-add-custom-kobold.png)
