@@ -16,7 +16,7 @@ nav_order: 2
 
 ## Privacy
 
-Your API keys are stored in your icloud keychain. Only your icloud account can access them.
+Your API keys are stored in your iCloud keychain. Only your iCloud account can access them.
 
 ## Instructions
 
@@ -48,6 +48,6 @@ Tap the **+** button to open the "Add Provider" screen. Select a preset for a po
 - A custom provider can be any OpenAI API compatible provider.
     - chat completions api, not responses api (yet)
 - You can also configure a **Custom Provider** if you have your own API endpoint.
-    - For kobold local, you can use any model name and any api key.
+    - For Kobold Local, you can use any model name and any API key.
 
 ![Add Custom Kobold Provider](assets/loreblendr/screenshots/provider-add-custom-kobold.png)

@@ -22,7 +22,7 @@ You need to save the character card to your iPhone's **Files app**.
 1. Long-press the image and choose "Open Image". 
     - *Or directly visit the image via [https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/refs/heads/main/assets/The_Caffeinated_Gauntlet.png](https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/refs/heads/main/assets/The_Caffeinated_Gauntlet.png)*
     
-2. Long press the image again select "Share" then "Save to Files".
-    - In Chrome, you may select "Download", the image will be in "On My Iphone -> Chrome" in the files app.
+2. Long-press the image again select "Share" then "Save to Files".
+    - In Chrome, you may select "Download", the image will be in "On My iPhone -> Chrome" in the Files app.
 2. If you do not see "download", then choose a location in Files and tap "Save".
     - Remember the location for the next step.

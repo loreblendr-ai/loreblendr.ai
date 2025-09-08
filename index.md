@@ -15,7 +15,7 @@ LoreBlendr.AI is a powerful and private AI chat application that puts you in con
 ## Key Features
 
 ### Expansive AI Model Access
-Connect to over 300+ AI models through services like [OpenRouter](https://openrouter.ai/) and [Gemini](https://ai.google.dev/). LoreBlendr.AI makes it easy to [set up providers]({% link gs-provider-setup.md %}), including custom OpenAI-compatible APIs.
+Connect to over 400 AI models through services like [OpenRouter](https://openrouter.ai/) and [Gemini](https://ai.google.dev/). LoreBlendr.AI makes it easy to [set up providers]({% link gs-provider-setup.md %}), including custom OpenAI-compatible APIs.
 
 ### Character Cards
 [Import character cards]({% link gs-import-character-card.md %}) from popular online repositories to instantly start chatting with new and exciting characters.

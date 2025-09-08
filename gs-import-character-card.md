@@ -7,7 +7,7 @@ nav_order: 4
 
 # Import Character Card
 
-**Important Note:** Before importing a character card, ensure you have followed the instructions on how to [download a character card]({% link download-character-card.md %}).
+**Important Note:** Before importing a character card, ensure you have followed the instructions on how to [download a character card]({% link gs-download-character-card.md %}).
 
 Importing a Character Card into LoreBlendr allows you to quickly start a chat with the character.
 

@@ -18,7 +18,7 @@ Head over to [Legacy Getting Started](legacy-getting-started) to play the test s
 
 ## Privacy and Security
 
-All your chat data is in your icloud container and vault, and cannot be accessed, except by you.
+All your chat data is in your iCloud container and vault, and cannot be accessed, except by you.
 
 This data is private to you, there is no intention to change this philosophy.
 
