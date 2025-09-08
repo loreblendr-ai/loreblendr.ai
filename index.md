@@ -6,11 +6,11 @@ nav_exclude: true
 
 # LoreBlendr.AI
 
-**Your ultimate AI chat companion for immersive storytelling and dynamic conversations.**
+**Your ultimate AI chat companion for immersive, genre-blending storytelling and dynamic conversations.**
 
 Available on the [App Store](https://apps.apple.com/us/app/llm-power-tools/id6745411393).
 
-LoreBlendr.AI is a powerful and private AI chat application that puts you in control. Connect to hundreds of AI models, create unique personas, and bring your characters to life with character cards and dynamic lorebooks.
+LoreBlendr.AI is a powerful AI chat application that puts you in control of the narrative. Connect to over 400 AI models, create unique personas, and bring your characters to life with character cards and multiple lorebooks.
 
 ## Key Features
 
