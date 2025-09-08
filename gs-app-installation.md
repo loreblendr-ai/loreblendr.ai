@@ -27,3 +27,7 @@ Macs with Apple M-series chips can run the iPad version of LoreBlendr.AI.
 4.  Find LoreBlendr.AI in the list and click the **Get** button or the cloud icon to install.
 
 The app will be available in your Applications folder and will run in iPad compatibility mode.
+
+## Future Platforms
+
+We are exploring the possibility of bringing LoreBlendr.AI to Android and web. While we don't have a timeline to share right now, it is something we are considering for future development based on user interest and support.

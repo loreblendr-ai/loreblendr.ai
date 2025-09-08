@@ -32,6 +32,9 @@ Take full control of your conversations with a [suite of advanced tools]({% link
 ### Privacy-Focused
 Your data is yours. All chat history and API keys are stored securely in your private iCloud container and keychain. The developer does not collect any data from the app. Read the [Privacy Policy](privacy-policy).
 
+## Future Platforms
+We are exploring the possibility of bringing LoreBlendr.AI to Android and web. While we don't have a timeline to share right now, it is something we are considering for future development based on user interest and support.
+
 ---
 
 Come and join us on [Discord](/discord)!
