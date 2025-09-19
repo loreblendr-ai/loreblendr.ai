@@ -11,7 +11,7 @@ baseurl: /docs
 # TODO fixme - The aux link is /discord on github, somehow the local doesn't redirect from /docs/ for everything.
 aux_links:
   "Discord": /discord
-  "Download @ App Store": https://apps.apple.com/us/app/llm-power-tools/id6745411393
+  "Download @ App Store": https://apps.apple.com/us/app/loreblendr-ai/id6747638829
 
 redirect_from:
   absolute_urls: true

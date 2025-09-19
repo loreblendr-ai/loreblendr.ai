@@ -9,7 +9,7 @@ nav_order: 1
 
 LoreBlendr.AI is available on the Apple App Store for iPhone, iPad, and Mac with Apple silicon (M-series chips).
 
-[**Install from the App Store**](https://apps.apple.com/us/app/llm-power-tools/id6745411393)
+[**Install from the App Store**](https://apps.apple.com/us/app/loreblendr-ai/id6747638829)
 
 ## iPhone and iPad
 
