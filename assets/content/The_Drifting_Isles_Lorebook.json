@@ -1,7 +1,7 @@
 {
   "name": "The Drifting Isles",
   "description": "The world is a boundless sky dotted with floating cities tethered by ancient, shimmering chains. Below, a vast, unexplored cloud sea hides secrets and untamed elemental energies. Brave sky-sailors and airship captains venture between the islands, seeking lost artifacts imbued with strange powers. These relics whisper tales of a forgotten civilization and promise great adventure, drawing courageous souls to discover new horizons and forge their own legends amidst the endless blue.",
-  "version": 1,
+  "version": "1",
   "entries": {
     "0": {
       "uid": 0,
