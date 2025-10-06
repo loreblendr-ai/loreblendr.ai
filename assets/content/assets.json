@@ -1,0 +1,53 @@
+{
+  "assets":
+    [
+        {
+            "name": "The Caffeinated Gauntlet",
+            "asset_type": "character",
+            "version": "1",
+            "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/The_Caffeinated_Gauntlet.png"
+        },
+        {
+            "name": "Elara",
+            "asset_type": "character",
+            "version": "1",
+            "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/Elara.png"
+        },
+        {
+            "name": "Kael",
+            "asset_type": "character",
+            "version": "1",
+            "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/Kael.png"
+        },
+        {
+            "name": "Rhys",
+            "asset_type": "character",
+            "version": "1",
+            "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/Rhys.png"
+        },
+        {
+            "name": "The Drifting Isles Lorebook",
+            "asset_type": "lorebook",
+            "version": "1",
+            "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/The_Drifting_Isles_Lorebook.json"
+        },
+        {
+            "name": "The Humming Chain of Aerie Market",
+            "asset_type": "character",
+            "version": "1",
+            "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/The_Humming_Chain_of_Aerie_Market.png"
+        },
+        {
+            "name": "The Rising Ruins",
+            "asset_type": "character",
+            "version": "1",
+            "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/The_Rising_Ruins.png"
+        },
+        {
+            "name": "Veridias Fading Light",
+            "asset_type": "character",
+            "version": "1",
+            "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/Veridias_Fading_Light.png"
+        }
+    ]
+}
