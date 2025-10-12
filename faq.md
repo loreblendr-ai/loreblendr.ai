@@ -9,7 +9,7 @@ nav_order: 3
 ## Patreon
 
 ### Why does LoreBlendr.AI have a Patreon?
-LoreBlendr.AI is a free iOS app for character card-based AI chat. To support its ongoing development, a [Patreon](https://www.patreon.com/cw/LoreBlendrAI) has been set up. Supporters get access to exclusive content, with memberships starting at $3/month.
+LoreBlendr.AI is a free iOS app for character card-based AI chat. To support its ongoing development, a [Patreon](https://www.patreon.com/cw/LoreBlendrAI) has been set up, with memberships starting at $3/month.
 
 ---
 
