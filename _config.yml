@@ -10,7 +10,7 @@ baseurl: /docs
 
 # TODO fixme - The aux link is /discord on github, somehow the local doesn't redirect from /docs/ for everything.
 aux_links:
-  "Patreon": https://www.patreon.com/cw/LoreBlendrAI
+  "Patreon": /patreon
   "Discord": /discord
   "Download @ App Store": /app
 
