@@ -11,6 +11,9 @@ These repositories generally have NSFW filters, pages loaded may not be safe for
 
 Here are some repositories where you can find character cards:
 
+*   [Character Archive](https://char-archive.evulid.cc/#/)
+    * Blurs nsfw by default, at least.
+    * This is an aggregate archive of created works going back several years.
 *   [Janny.AI (unofficial)](https://jannyai.com/characters/search)
     * Separate link for janny.ai browse: [https://jannyai.com/](https://jannyai.com/)
 *   [SillyCards](https://sillycards.co/presets)
