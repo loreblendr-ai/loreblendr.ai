@@ -50,10 +50,10 @@
             "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/content/Veridia_s_Fading_Light.png"
         },
         {
-            "name": "ST Chat Completions Preset",
+            "name": "Marinara's Spaghetti Recipe 7.5-Lite (Universal Preset)",
             "asset_type": "chat-completions-preset-st",
-            "version": "1",
-            "url": "placeholder"
+            "version": "7.5-Lite",
+            "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/refs/heads/main/assets/content/Marinara's%20Spaghetti%20Recipe%20Lite.json"
         }
     ]
 }
