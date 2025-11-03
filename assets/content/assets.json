@@ -48,6 +48,12 @@
             "asset_type": "character",
             "version": "1",
             "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/content/Veridia_s_Fading_Light.png"
+        },
+        {
+            "name": "ST Chat Completions Preset",
+            "asset_type": "chat-completions-preset-st",
+            "version": "1",
+            "url": "placeholder"
         }
     ]
 }
