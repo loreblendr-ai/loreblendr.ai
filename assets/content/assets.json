@@ -10,19 +10,19 @@
         {
             "name": "Elara",
             "asset_type": "character",
-            "version": "1",
+            "version": "2",
             "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/content/Elara.png"
         },
         {
             "name": "Kael",
             "asset_type": "character",
-            "version": "1",
+            "version": "2",
             "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/content/Kael.png"
         },
         {
             "name": "Rhys",
             "asset_type": "character",
-            "version": "1",
+            "version": "2",
             "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/content/Rhys.png"
         },
         {
@@ -48,6 +48,24 @@
             "asset_type": "character",
             "version": "1",
             "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/content/Veridia_s_Fading_Light.png"
+        },
+        {
+            "name": "Celeste the Fortune Teller",
+            "asset_type": "character",
+            "version": "2",
+            "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/content/Celeste_the_Fortuneteller.png"
+        },
+        {
+            "name": "Coach Paul",
+            "asset_type": "character",
+            "version": "1",
+            "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/content/Coach_Paul.png"
+        },
+        {
+            "name": "Assistant",
+            "asset_type": "character",
+            "version": "2",
+            "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/content/Assistant.png"
         },
         {
             "name": "Marinara's Spaghetti Recipe 7.5-Lite (Universal Preset)",
