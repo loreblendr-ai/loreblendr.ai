@@ -52,7 +52,7 @@
         {
             "name": "Celeste the Fortune Teller",
             "asset_type": "character",
-            "version": "2",
+            "version": "3",
             "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/content/Celeste_the_Fortuneteller.png"
         },
         {
@@ -66,6 +66,12 @@
             "asset_type": "character",
             "version": "2",
             "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/content/Assistant.png"
+        },
+        {
+            "name": "Primitive Technology",
+            "asset_type": "character",
+            "version": "2",
+            "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/content/Primitive_Technology.png"
         },
         {
             "name": "Marinara's Spaghetti Recipe 7.5-Lite (Universal Preset)",
