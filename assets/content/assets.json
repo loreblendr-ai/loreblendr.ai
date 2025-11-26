@@ -56,12 +56,6 @@
             "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/content/Celeste_the_Fortuneteller.png"
         },
         {
-            "name": "Coach Paul",
-            "asset_type": "character",
-            "version": "1",
-            "url": "https://raw.githubusercontent.com/loreblendr-ai/loreblendr.ai/main/assets/content/Coach_Paul.png"
-        },
-        {
             "name": "Assistant",
             "asset_type": "character",
             "version": "2",
