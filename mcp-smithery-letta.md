@@ -28,6 +28,7 @@ For best results with memory functionality, we recommend using:
 - Any DeepSeek
 - Any GLM
 - ChatGPT
+- OpenAI models such as GPT-5
 
 ## Troubleshooting
 
