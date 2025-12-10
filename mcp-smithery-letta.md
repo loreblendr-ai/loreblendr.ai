@@ -32,7 +32,7 @@ If you encounter issues such as empty responses or errors with tool usage, instr
    * ![Get Auth URL](/assets/smithery_get_auth_url.png)
    * ![Copy Auth URL](/assets/smithery_copy_auth_url.png)
    * In LoreBlendr, go to Settings → Advanced Chat Tools → MCP (or MCP Tools) and add a new MCP server using that URL. <a href="https://loreblendr.ai/getting-started.html" target="_blank">LoreBlendr.AI</a>
-3. Give it a name (for example, "Letta Memory") and save.
+3. Give it a name (for example, "Letta Memory"), paste the URL, and save. The tools will auto-populate after saving.
 4. In a chat, enable that MCP tool for your character; then chat normally and ask the model to recall earlier details to confirm that memory is working.
 
 ![LoreBlendr MCP Setup](/assets/mcp_letta_smithery_setup.jpg)
