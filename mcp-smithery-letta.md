@@ -18,9 +18,6 @@ nav_order: 1
 2. Open the Memory MCP page on <a href="https://smithery.ai/server/%40letta-ai/memory-mcp" target="_blank">Smithery</a> (`@letta-ai/memory-mcp`) and configure it with your Letta API key and a `user_id` (or accept the default).
 3. From that Smithery page, copy the MCP server URL it provides (including any query parameters). <a href="https://smithery.ai/servers?q=memory+systems+and+memory+extensions+for+agents" target="_blank">smithery.ai</a>
 4. In LoreBlendr, go to Settings → Advanced Chat Tools → MCP (or MCP Tools) and add a new MCP server using that URL. <a href="https://loreblendr.ai/getting-started.html" target="_blank">LoreBlendr.AI</a>
-
-![LoreBlendr MCP Setup](/assets/mcp_letta_smithery_setup.jpg)
-
 5. Give it a name (for example, "Letta Memory") and save.
 6. In a chat, enable that MCP tool for your character; then chat normally and ask the model to recall earlier details to confirm that memory is working.
 
@@ -35,4 +32,6 @@ For best results with memory functionality, we recommend using:
 ## Troubleshooting
 
 If you encounter issues such as empty responses or errors with tool usage, instruct the model to send tools to the messages, not the tool endpoint. This is a temporary workaround to be able to use tools with models that don't have tool use enabled. We will also support the tools API soon.
+
+![LoreBlendr MCP Setup](/assets/mcp_letta_smithery_setup.jpg)
 
