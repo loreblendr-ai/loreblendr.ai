@@ -47,10 +47,17 @@
 {%- else -%}
   {%- capture content_url -%}{{ "/content" | relative_url }}{%- endcapture -%}
 {%- endif -%}
+{%- assign advanced_setup_page = site.pages | where: "name", "advanced-setup.md" | first -%}
+{%- if advanced_setup_page -%}
+  {%- capture advanced_setup_url -%}{{ advanced_setup_page.url | relative_url }}{%- endcapture -%}
+{%- else -%}
+  {%- capture advanced_setup_url -%}{{ "/advanced-setup" | relative_url }}{%- endcapture -%}
+{%- endif -%}
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   const gettingStartedUrl = '{{ getting_started_url | strip }}';
   const contentUrl = '{{ content_url | strip }}';
+  const advancedSetupUrl = '{{ advanced_setup_url | strip }}';
 
   /* Exclude butterbar from the 'getting-started' page. */
   /*
@@ -85,6 +92,23 @@ document.addEventListener("DOMContentLoaded", function() {
     var parentLi = contentLink.parentNode;
     /*
      * Only expand if we are not already in the "Content" section.
+     * The theme adds the 'active' class to the parent li of the current page's nav link,
+     * so we check for that to avoid interfering with the theme's default behavior.
+     */
+    if (parentLi && !parentLi.classList.contains('active')) {
+      var expanderButton = parentLi.querySelector('.nav-list-expander');
+      if (expanderButton && expanderButton.getAttribute('aria-pressed') !== 'true') {
+        expanderButton.click();
+      }
+    }
+  }
+
+  /* Always expand the "Advanced Setup" nav section */
+  var advancedSetupLink = document.querySelector('#site-nav .nav-list-link[href="' + advancedSetupUrl + '"]');
+  if (advancedSetupLink) {
+    var parentLi = advancedSetupLink.parentNode;
+    /*
+     * Only expand if we are not already in the "Advanced Setup" section.
      * The theme adds the 'active' class to the parent li of the current page's nav link,
      * so we check for that to avoid interfering with the theme's default behavior.
      */
