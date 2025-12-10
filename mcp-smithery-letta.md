@@ -12,6 +12,18 @@ nav_order: 1
 * <a href="https://loreblendr.ai/app" target="_blank">LoreBlendr.AI App</a> free trial activated or monthly Pro subscription.
 * Free accounts on <a href="https://smithery.ai/server/%40letta-ai/memory-mcp" target="_blank">Smithery</a> and <a href="https://app.letta.com/signup" target="_blank">Letta</a> (no payment required).
 
+## Recommended Models
+
+For best results with memory functionality, we recommend using:
+- Claude Opus or Sonnet 3.5/4.1/4.5
+- Any DeepSeek
+- Any GLM
+- OpenAI models such as GPT-5
+
+## Troubleshooting
+
+If you encounter issues such as empty responses or errors with tool usage, instruct the model to send tools to the messages, not the tool endpoint. This is a temporary workaround to be able to use tools with models that don't have tool use enabled. We will also support the tools API soon.
+
 ## Steps
 
 1. In <a href="https://app.letta.com/signup" target="_blank">Letta</a>, create an API key and keep it handy.
