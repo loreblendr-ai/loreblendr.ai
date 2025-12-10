@@ -86,12 +86,12 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   }
 
-  /* Always expand the "Content" nav section */
-  var contentLink = document.querySelector('#site-nav .nav-list-link[href="' + contentUrl + '"]');
-  if (contentLink) {
-    var parentLi = contentLink.parentNode;
+  /* Always expand the "Advanced Setup" nav section */
+  var advancedSetupLink = document.querySelector('#site-nav .nav-list-link[href="' + advancedSetupUrl + '"]');
+  if (advancedSetupLink) {
+    var parentLi = advancedSetupLink.parentNode;
     /*
-     * Only expand if we are not already in the "Content" section.
+     * Only expand if we are not already in the "Advanced Setup" section.
      * The theme adds the 'active' class to the parent li of the current page's nav link,
      * so we check for that to avoid interfering with the theme's default behavior.
      */
@@ -103,12 +103,12 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   }
 
-  /* Always expand the "Advanced Setup" nav section */
-  var advancedSetupLink = document.querySelector('#site-nav .nav-list-link[href="' + advancedSetupUrl + '"]');
-  if (advancedSetupLink) {
-    var parentLi = advancedSetupLink.parentNode;
+  /* Always expand the "Content" nav section */
+  var contentLink = document.querySelector('#site-nav .nav-list-link[href="' + contentUrl + '"]');
+  if (contentLink) {
+    var parentLi = contentLink.parentNode;
     /*
-     * Only expand if we are not already in the "Advanced Setup" section.
+     * Only expand if we are not already in the "Content" section.
      * The theme adds the 'active' class to the parent li of the current page's nav link,
      * so we check for that to avoid interfering with the theme's default behavior.
      */
