@@ -16,13 +16,13 @@ nav_order: 1
 
 1. In <a href="https://app.letta.com/signup" target="_blank">Letta</a>, create an API key and keep it handy.
 2. Open the Memory MCP page on <a href="https://smithery.ai/server/%40letta-ai/memory-mcp" target="_blank">Smithery</a> (`@letta-ai/memory-mcp`) and configure it with your Letta API key and a `user_id` (or accept the default).
-   - From that Smithery page, click "Get URL with keys instead" (the orange link below "Get Connection URL") and copy the MCP server URL it provides (including any query parameters).
+   * From that Smithery page, click "Get URL with keys instead" (the orange link below "Get Connection URL") and copy the MCP server URL it provides (including any query parameters).
 
 ![Get Auth URL](/assets/smithery_get_auth_url.png)
 
 ![Copy Auth URL](/assets/smithery_copy_auth_url.png)
 
-   - In LoreBlendr, go to Settings → Advanced Chat Tools → MCP (or MCP Tools) and add a new MCP server using that URL. <a href="https://loreblendr.ai/getting-started.html" target="_blank">LoreBlendr.AI</a>
+   * In LoreBlendr, go to Settings → Advanced Chat Tools → MCP (or MCP Tools) and add a new MCP server using that URL. <a href="https://loreblendr.ai/getting-started.html" target="_blank">LoreBlendr.AI</a>
 3. Give it a name (for example, "Letta Memory") and save.
 4. In a chat, enable that MCP tool for your character; then chat normally and ask the model to recall earlier details to confirm that memory is working.
 
