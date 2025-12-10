@@ -21,3 +21,14 @@ nav_order: 1
 5. Give it a name (for example, "Letta Memory") and save.
 6. In a chat, enable that MCP tool for your character; then chat normally and ask the model to recall earlier details to confirm that memory is working.
 
+## Recommended Models
+
+For best results with memory functionality, we recommend using:
+- Any Claude models
+- DeepSeek
+- GLM 4.6 Thinking
+
+## Troubleshooting
+
+If you encounter issues with tool usage, instruct the model to send tools to the messages, not the tool endpoint. This is a temporary workaround to be able to use tools with models that don't have tool use enabled. We will also support the tools API soon.
+
