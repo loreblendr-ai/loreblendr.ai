@@ -34,6 +34,7 @@ If you encounter issues such as empty responses or errors with tool usage, instr
 3. In LoreBlendr:
    * Go to Settings → Advanced Chat Tools → MCP (or MCP Tools)
    * Add a new MCP server using that URL
+   * Choose "None" for auth
    * Give it a name (for example, "Letta Memory")
    * Paste the URL and save
    * The tools will auto-populate after saving <a href="https://loreblendr.ai/getting-started.html" target="_blank">LoreBlendr.AI</a>
