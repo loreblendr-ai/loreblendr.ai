@@ -20,7 +20,7 @@ nav_order: 1
 5. Give it a name (for example, "Letta Memory") and save.
 6. In a chat, enable that MCP tool for your character; then chat normally and ask the model to recall earlier details to confirm that memory is working.
 
-[1]: https://smithery.ai/server/%40letta-ai/memory-mcp?utm_source=chatgpt.com "Memory MCP | MCP Server | Smithery"
-[2]: https://app.letta.com/signup "Letta Cloud Signup"
-[3]: https://smithery.ai/servers?q=memory+systems+and+memory+extensions+for+agents&utm_source=chatgpt.com "Smithery - Turn scattered context into skills for AI"
-[4]: https://loreblendr.ai/getting-started.html?utm_source=chatgpt.com "Getting Started | LoreBlendr.AI"
+[1]: https://smithery.ai/server/%40letta-ai/memory-mcp?utm_source=chatgpt.com "Memory MCP | MCP Server | Smithery"{:target="_blank"}
+[2]: https://app.letta.com/signup "Letta Cloud Signup"{:target="_blank"}
+[3]: https://smithery.ai/servers?q=memory+systems+and+memory+extensions+for+agents&utm_source=chatgpt.com "Smithery - Turn scattered context into skills for AI"{:target="_blank"}
+[4]: https://loreblendr.ai/getting-started.html?utm_source=chatgpt.com "Getting Started | LoreBlendr.AI"{:target="_blank"}
