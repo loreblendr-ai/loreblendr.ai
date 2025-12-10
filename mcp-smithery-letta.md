@@ -9,7 +9,7 @@ nav_order: 1
 
 ## Prerequisites
 
-* LoreBlendr.AI free trial activated or monthly Pro subscription. <a href="https://loreblendr.ai/app" target="_blank">LoreBlendr.AI App</a>
+* <a href="https://loreblendr.ai/app" target="_blank">LoreBlendr.AI App</a> free trial activated or monthly Pro subscription.
 * Free accounts on <a href="https://smithery.ai/server/%40letta-ai/memory-mcp" target="_blank">Smithery</a> and <a href="https://app.letta.com/signup" target="_blank">Letta</a> (no payment required).
 
 ## Steps
