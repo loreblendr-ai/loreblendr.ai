@@ -25,8 +25,8 @@ nav_order: 1
 
 For best results with memory functionality, we recommend using:
 - Claude Opus or Sonnet 3.5/4.1/4.5
-- DeepSeek
-- GLM 4.6 Thinking
+- Any DeepSeek
+- Any GLM
 
 ## Troubleshooting
 
