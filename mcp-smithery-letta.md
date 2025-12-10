@@ -35,19 +35,6 @@ If you encounter issues such as empty responses or errors with tool usage, instr
 3. Give it a name (for example, "Letta Memory") and save.
 4. In a chat, enable that MCP tool for your character; then chat normally and ask the model to recall earlier details to confirm that memory is working.
 
-## Recommended Models
-
-For best results with memory functionality, we recommend using:
-- Claude Opus or Sonnet 3.5/4.1/4.5
-- Any DeepSeek
-- Any GLM
-- OpenAI models such as GPT-5
-
-## Troubleshooting
-
-If you encounter issues such as empty responses or errors with tool usage, instruct the model to send tools to the messages, not the tool endpoint. This is a temporary workaround to be able to use tools with models that don't have tool use enabled. We will also support the tools API soon.
-
-
 ## Screenshots
 
 ![LoreBlendr MCP Setup](/assets/mcp_letta_smithery_setup.jpg)
