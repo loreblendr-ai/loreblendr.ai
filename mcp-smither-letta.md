@@ -9,6 +9,7 @@ nav_order: 1
 
 ## Prerequisites
 
+* LoreBlendr.AI free trial activated or monthly Pro subscription. ([LoreBlendr.AI App][5])
 * Free accounts on Letta and Smithery (no payment required). ([smithery.ai][1])
 
 ## Steps
@@ -24,3 +25,4 @@ nav_order: 1
 [2]: https://app.letta.com/signup "Letta Cloud Signup"{:target="_blank"}
 [3]: https://smithery.ai/servers?q=memory+systems+and+memory+extensions+for+agents&utm_source=chatgpt.com "Smithery - Turn scattered context into skills for AI"{:target="_blank"}
 [4]: https://loreblendr.ai/getting-started.html?utm_source=chatgpt.com "Getting Started | LoreBlendr.AI"{:target="_blank"}
+[5]: https://loreblendr.ai/app "LoreBlendr.AI App"{:target="_blank"}
