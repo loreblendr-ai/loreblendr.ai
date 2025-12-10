@@ -33,5 +33,8 @@ For best results with memory functionality, we recommend using:
 
 If you encounter issues such as empty responses or errors with tool usage, instruct the model to send tools to the messages, not the tool endpoint. This is a temporary workaround to be able to use tools with models that don't have tool use enabled. We will also support the tools API soon.
 
+
+## Screenshots
+
 ![LoreBlendr MCP Setup](/assets/mcp_letta_smithery_setup.jpg)
 
