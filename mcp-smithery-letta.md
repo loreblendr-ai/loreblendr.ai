@@ -35,7 +35,5 @@ If you encounter issues such as empty responses or errors with tool usage, instr
 3. Give it a name (for example, "Letta Memory") and save.
 4. In a chat, enable that MCP tool for your character; then chat normally and ask the model to recall earlier details to confirm that memory is working.
 
-## Screenshots
-
 ![LoreBlendr MCP Setup](/assets/mcp_letta_smithery_setup.jpg)
 
