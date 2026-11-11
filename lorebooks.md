@@ -3,6 +3,7 @@ title: Lorebooks
 layout: default
 parent: Content
 nav_order: 2
+redirect_to: https://characteragent.ai/guides/world-builder/?utm_source=loreblendr.ai&utm_medium=redirect&utm_campaign=lorebooks
 ---
 
 # Lorebooks

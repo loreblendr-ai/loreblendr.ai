@@ -3,6 +3,7 @@ title: Provider Setup
 layout: default
 parent: Getting Started
 nav_order: 2
+redirect_to: https://characteragent.ai/guides/use-every-feature-free/?utm_source=loreblendr.ai&utm_medium=redirect&utm_campaign=gs-provider-setup
 ---
 
 # Provider Setup

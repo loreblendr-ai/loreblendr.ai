@@ -3,6 +3,7 @@ title: Download Character Card
 layout: default
 parent: Getting Started
 nav_order: 3
+redirect_to: https://characteragent.ai/guides/card-hunter/?utm_source=loreblendr.ai&utm_medium=redirect&utm_campaign=gs-download-character-card
 ---
 
 # Download Character Card

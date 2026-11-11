@@ -3,6 +3,7 @@ title: Character Cards
 layout: default
 parent: Content
 nav_order: 1
+redirect_to: https://characteragent.ai/guides/card-hunter/?utm_source=loreblendr.ai&utm_medium=redirect&utm_campaign=character-cards
 ---
 
 # Character Cards

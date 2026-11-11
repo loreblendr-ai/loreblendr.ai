@@ -2,6 +2,7 @@
 title: Home
 layout: home
 nav_exclude: true
+redirect_to: https://characteragent.ai/?utm_source=loreblendr.ai&utm_medium=redirect&utm_campaign=home
 ---
 
 # LoreBlendr.AI

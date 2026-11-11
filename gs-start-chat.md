@@ -3,6 +3,7 @@ title: Start Chat
 layout: default
 parent: Getting Started
 nav_order: 8
+redirect_to: https://characteragent.ai/guides/your-first-chat/?utm_source=loreblendr.ai&utm_medium=redirect&utm_campaign=gs-start-chat
 ---
 
 # Start a Chat

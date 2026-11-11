@@ -2,6 +2,7 @@
 title: FAQ
 layout: default
 nav_order: 9
+redirect_to: https://characteragent.ai/faq/?utm_source=loreblendr.ai&utm_medium=redirect&utm_campaign=faq
 ---
 
 # Frequently Asked Questions (FAQ)
@@ -9,7 +10,7 @@ nav_order: 9
 ## Patreon
 
 ### Why does LoreBlendr.AI have a Patreon?
-LoreBlendr.AI is a free iOS app for character card-based AI chat. To support its ongoing development, a [Patreon](https://www.patreon.com/cw/LoreBlendrAI) has been set up, with memberships starting at $3/month.
+LoreBlendr.AI is a free iOS app for character card-based AI chat. To support its ongoing development, a [Patreon](https://www.patreon.com/cw/CharacterAgent) has been set up, with memberships starting at $3/month.
 
 ---
 

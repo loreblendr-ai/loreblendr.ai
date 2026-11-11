@@ -3,6 +3,7 @@ title: Using Lorebooks
 layout: default
 parent: Getting Started
 nav_order: 6
+redirect_to: https://characteragent.ai/guides/world-builder/?utm_source=loreblendr.ai&utm_medium=redirect&utm_campaign=gs-using-lorebooks
 ---
 
 # Using Lorebooks

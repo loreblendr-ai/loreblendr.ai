@@ -5,8 +5,8 @@ nav_exclude: true
 permalink: /app/
 ---
 
-<meta http-equiv="refresh" content="0; url=https://apps.apple.com/redeem?ctx=offercodes&id=6747638829&code=FREEWEEK" />
+<meta http-equiv="refresh" content="0; url=https://apps.apple.com/us/app/character-agent/id6747638829" />
 
 <p>Redirecting to the App Store...</p>
 
-<p>If you are not redirected automatically, <a href="https://apps.apple.com/redeem?ctx=offercodes&id=6747638829&code=FREEWEEK">click here</a>.</p>
+<p>If you are not redirected automatically, <a href="https://apps.apple.com/us/app/character-agent/id6747638829">click here</a>.</p>

@@ -3,6 +3,7 @@ title: Connect Exa Search MCP to LoreBlendr
 layout: default
 parent: Advanced Setup
 nav_order: 2
+redirect_to: https://characteragent.ai/guides/agent-powers/?utm_source=loreblendr.ai&utm_medium=redirect&utm_campaign=mcp-exa-search
 ---
 
 # Connect Exa Search MCP to LoreBlendr

@@ -3,6 +3,7 @@ title: App Installation
 layout: default
 parent: Getting Started
 nav_order: 1
+redirect_to: https://characteragent.ai/guides/?utm_source=loreblendr.ai&utm_medium=redirect&utm_campaign=gs-app-installation
 ---
 
 # App Installation

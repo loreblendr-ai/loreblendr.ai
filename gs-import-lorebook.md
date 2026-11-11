@@ -3,6 +3,7 @@ title: Import Lorebook
 layout: default
 parent: Getting Started
 nav_order: 5
+redirect_to: https://characteragent.ai/guides/world-builder/?utm_source=loreblendr.ai&utm_medium=redirect&utm_campaign=gs-import-lorebook
 ---
 
 # Import Lorebook

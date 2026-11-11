@@ -3,6 +3,7 @@ title: Connect Letta Memory MCP to LoreBlendr (via Smithery)
 layout: default
 parent: Advanced Setup
 nav_order: 1
+redirect_to: https://characteragent.ai/guides/agent-powers/?utm_source=loreblendr.ai&utm_medium=redirect&utm_campaign=mcp-smithery-letta
 ---
 
 # Connect Letta Memory MCP to LoreBlendr (via Smithery)

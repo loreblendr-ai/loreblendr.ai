@@ -3,6 +3,7 @@ title: Download Character Card
 layout: default
 parent: Legacy Getting Started
 nav_order: 4
+redirect_to: https://characteragent.ai/guides/card-hunter/?utm_source=loreblendr.ai&utm_medium=redirect&utm_campaign=download-character-card
 ---
 
 # Download Character Card

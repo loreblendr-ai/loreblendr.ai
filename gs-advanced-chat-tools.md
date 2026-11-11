@@ -3,6 +3,7 @@ title: Advanced Chat Tools
 layout: default
 parent: Getting Started
 nav_order: 9
+redirect_to: https://characteragent.ai/guides/rewrite-the-story/?utm_source=loreblendr.ai&utm_medium=redirect&utm_campaign=gs-advanced-chat-tools
 ---
 
 # Advanced Chat Tools

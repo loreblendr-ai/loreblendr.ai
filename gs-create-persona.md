@@ -3,6 +3,7 @@ title: Create Persona
 layout: default
 parent: Getting Started
 nav_order: 7
+redirect_to: https://characteragent.ai/guides/who-are-you/?utm_source=loreblendr.ai&utm_medium=redirect&utm_campaign=gs-create-persona
 ---
 
 # Create and Manage Personas
